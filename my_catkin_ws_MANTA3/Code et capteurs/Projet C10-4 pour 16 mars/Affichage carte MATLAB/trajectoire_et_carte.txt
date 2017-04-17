@@ -1,0 +1,11 @@
+T 1314826776 GPS 2219.278 48711.0442 OR 0.5 DI 10 15 20
+T 1314826777 GPS 2219.270 48711.0450 OR 0.9 DI 2 6 9
+T 1314826778 GPS 2219.275 48711.0454 OR 1.8 DI 10 6 9
+T 1314826779 GPS 2219.274 48711.0457 OR 2.5 DI 10 6 9
+T 1314826780 GPS 2219.277 48711.0458 OR 2 DI 10 6 9
+T 1314826781 GPS 2219.275 48711.0460 OR 4 DI 10 6 9
+
+#T temps en timestamp linux (on le le lit pas pour l'instant)
+#GPS est puis nord en float*1000
+#orientation par rapport au nord dans le sens horaire en radians
+#distances 1 gauche, 2 devant, 3 droite en mètres

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libvector3d.so -o /home/pi/my_catkin_ws/devel/lib/libvector3d.so CMakeFiles/vector3d.dir/src/linux-mpu9150/mpu9150/vector3d.c.o 

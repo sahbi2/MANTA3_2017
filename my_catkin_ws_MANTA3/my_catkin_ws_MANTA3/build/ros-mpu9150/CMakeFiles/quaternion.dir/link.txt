@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libquaternion.so -o /home/pi/my_catkin_ws/devel/lib/libquaternion.so CMakeFiles/quaternion.dir/src/linux-mpu9150/mpu9150/quaternion.c.o 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/mpu9150/vector3d.c
+vector3d.h
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/mpu9150/vector3d.h
+
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/mpu9150/vector3d.h
+math.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,libmpu9150.so -o /home/pi/my_catkin_ws/devel/lib/libmpu9150.so CMakeFiles/mpu9150.dir/src/linux-mpu9150/mpu9150/mpu9150.c.o 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_mpu9150")
+set(ros_mpu9150_MAINTAINER "Víctor Mayoral Vilches <v.mayoralv@gmail.com>")
+set(ros_mpu9150_DEPRECATED "")
+set(ros_mpu9150_VERSION "0.0.0")
+set(ros_mpu9150_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ros_mpu9150_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(ros_mpu9150_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,13 @@
+<launch>
+
+	<arg name = "port_arduino"/>
+	<arg name = "port_serial"/>
+
+	<node name="rosserial_python" pkg="rosserial_python" type="serial_node.py">
+		<param name="port" value= "$(arg port_arduino)" />
+	</node>
+
+	<node name="manta_radio"   pkg="manta" type="radio_publisher.py"/>
+	<node name="manta_control" pkg="manta" type="raspberry_motor_command_node.py"/>
+
+</launch>

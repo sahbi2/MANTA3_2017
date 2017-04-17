@@ -1,0 +1,3551 @@
+Attach handler ran at: 17:01:12.597
+Fix change event: 1
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:12.597
+ Heading: 276.30, Velocity: 0.000
+PhidgetGPS
+Version:      101 SerialNumber:     285643
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:12.697
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.4000
+ Date: 21/03/2017 Time 17:01:12.797
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.6000
+ Date: 21/03/2017 Time 17:01:12.897
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.6000
+ Date: 21/03/2017 Time 17:01:12.997
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:13.097
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:13.197
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.3000
+ Date: 21/03/2017 Time 17:01:13.297
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.3000
+ Date: 21/03/2017 Time 17:01:13.397
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:13.497
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:13.597
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.4000
+ Date: 21/03/2017 Time 17:01:13.697
+ Heading: 276.30, Velocity: 0.000
+Position Change event: lat: 48.7118, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:13.797
+ Heading: 262.00, Velocity: 1.482
+Position Change event: lat: 48.7118, long: 2.2180, alt: 204.2000
+ Date: 21/03/2017 Time 17:01:13.897
+ Heading: 261.10, Velocity: 2.037
+Position Change event: lat: 48.7118, long: 2.2180, alt: 204.4000
+ Date: 21/03/2017 Time 17:01:13.997
+ Heading: 260.20, Velocity: 2.408
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:14.097
+ Heading: 257.40, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.4000
+ Date: 21/03/2017 Time 17:01:14.197
+ Heading: 253.80, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.2000
+ Date: 21/03/2017 Time 17:01:14.297
+ Heading: 251.20, Velocity: 2.222
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:14.397
+ Heading: 250.10, Velocity: 2.222
+Position Change event: lat: 48.7119, long: 2.2180, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:14.497
+ Heading: 248.90, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:14.597
+ Heading: 247.40, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.3000
+ Date: 21/03/2017 Time 17:01:14.697
+ Heading: 245.70, Velocity: 1.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.6000
+ Date: 21/03/2017 Time 17:01:14.797
+ Heading: 247.90, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:14.897
+ Heading: 249.30, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:14.997
+ Heading: 251.00, Velocity: 2.037
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.4000
+ Date: 21/03/2017 Time 17:01:15.097
+ Heading: 252.70, Velocity: 1.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:15.197
+ Heading: 250.30, Velocity: 1.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.2000
+ Date: 21/03/2017 Time 17:01:15.397
+ Heading: 249.00, Velocity: 2.222
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.3000
+ Date: 21/03/2017 Time 17:01:15.497
+ Heading: 249.20, Velocity: 2.778
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.4000
+ Date: 21/03/2017 Time 17:01:15.597
+ Heading: 249.60, Velocity: 3.334
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:15.697
+ Heading: 249.80, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.0000
+ Date: 21/03/2017 Time 17:01:15.797
+ Heading: 250.20, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.0000
+ Date: 21/03/2017 Time 17:01:15.897
+ Heading: 250.00, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.0000
+ Date: 21/03/2017 Time 17:01:15.997
+ Heading: 250.10, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.097
+ Heading: 250.80, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.197
+ Heading: 251.70, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.297
+ Heading: 252.30, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.397
+ Heading: 252.80, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.497
+ Heading: 253.50, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:16.597
+ Heading: 254.00, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:16.697
+ Heading: 254.70, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:16.897
+ Heading: 256.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:16.997
+ Heading: 257.40, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:17.097
+ Heading: 259.20, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.7000
+ Date: 21/03/2017 Time 17:01:17.197
+ Heading: 260.30, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.7000
+ Date: 21/03/2017 Time 17:01:17.297
+ Heading: 261.10, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2180, alt: 203.8000
+ Date: 21/03/2017 Time 17:01:17.397
+ Heading: 262.70, Velocity: 4.260
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.0000
+ Date: 21/03/2017 Time 17:01:17.497
+ Heading: 264.70, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.1000
+ Date: 21/03/2017 Time 17:01:17.597
+ Heading: 266.90, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2180, alt: 204.2000
+ Date: 21/03/2017 Time 17:01:17.697
+ Heading: 269.10, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.2000
+ Date: 21/03/2017 Time 17:01:17.797
+ Heading: 271.00, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.3000
+ Date: 21/03/2017 Time 17:01:17.897
+ Heading: 272.00, Velocity: 3.889
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.2000
+ Date: 21/03/2017 Time 17:01:17.997
+ Heading: 273.80, Velocity: 3.889
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.3000
+ Date: 21/03/2017 Time 17:01:18.097
+ Heading: 275.70, Velocity: 2.593
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.3000
+ Date: 21/03/2017 Time 17:01:18.197
+ Heading: 280.70, Velocity: 2.408
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.3000
+ Date: 21/03/2017 Time 17:01:18.297
+ Heading: 284.40, Velocity: 2.408
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.5000
+ Date: 21/03/2017 Time 17:01:18.397
+ Heading: 286.20, Velocity: 2.408
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.7000
+ Date: 21/03/2017 Time 17:01:18.497
+ Heading: 290.00, Velocity: 2.593
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.7000
+ Date: 21/03/2017 Time 17:01:18.597
+ Heading: 291.90, Velocity: 2.778
+Position Change event: lat: 48.7119, long: 2.2179, alt: 204.8000
+ Date: 21/03/2017 Time 17:01:18.697
+ Heading: 294.00, Velocity: 2.778
+Position Change event: lat: 48.7119, long: 2.2179, alt: 205.0000
+ Date: 21/03/2017 Time 17:01:18.797
+ Heading: 295.50, Velocity: 2.963
+Position Change event: lat: 48.7119, long: 2.2179, alt: 205.3000
+ Date: 21/03/2017 Time 17:01:18.897
+ Heading: 297.60, Velocity: 3.148
+Position Change event: lat: 48.7119, long: 2.2179, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:18.997
+ Heading: 298.90, Velocity: 3.334
+Position Change event: lat: 48.7119, long: 2.2179, alt: 206.0000
+ Date: 21/03/2017 Time 17:01:19.097
+ Heading: 299.40, Velocity: 3.519
+Position Change event: lat: 48.7119, long: 2.2179, alt: 206.0000
+ Date: 21/03/2017 Time 17:01:19.197
+ Heading: 300.60, Velocity: 3.889
+Position Change event: lat: 48.7119, long: 2.2179, alt: 206.2000
+ Date: 21/03/2017 Time 17:01:19.297
+ Heading: 301.40, Velocity: 3.889
+Position Change event: lat: 48.7119, long: 2.2179, alt: 206.7000
+ Date: 21/03/2017 Time 17:01:19.397
+ Heading: 303.20, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 207.0000
+ Date: 21/03/2017 Time 17:01:19.497
+ Heading: 304.70, Velocity: 4.260
+Position Change event: lat: 48.7119, long: 2.2179, alt: 207.2000
+ Date: 21/03/2017 Time 17:01:19.597
+ Heading: 304.50, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 207.9000
+ Date: 21/03/2017 Time 17:01:19.697
+ Heading: 304.30, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 208.1000
+ Date: 21/03/2017 Time 17:01:19.797
+ Heading: 304.30, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2179, alt: 208.7000
+ Date: 21/03/2017 Time 17:01:19.897
+ Heading: 304.80, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 208.9000
+ Date: 21/03/2017 Time 17:01:19.997
+ Heading: 304.90, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 209.4000
+ Date: 21/03/2017 Time 17:01:20.097
+ Heading: 303.20, Velocity: 3.519
+Position Change event: lat: 48.7119, long: 2.2179, alt: 209.8000
+ Date: 21/03/2017 Time 17:01:20.197
+ Heading: 302.40, Velocity: 3.704
+Position Change event: lat: 48.7119, long: 2.2179, alt: 210.1000
+ Date: 21/03/2017 Time 17:01:20.297
+ Heading: 304.30, Velocity: 3.704
+Position Change event: lat: 48.7119, long: 2.2179, alt: 210.2000
+ Date: 21/03/2017 Time 17:01:20.397
+ Heading: 303.00, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 210.3000
+ Date: 21/03/2017 Time 17:01:20.497
+ Heading: 303.80, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 210.8000
+ Date: 21/03/2017 Time 17:01:20.697
+ Heading: 306.90, Velocity: 4.260
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.0000
+ Date: 21/03/2017 Time 17:01:20.797
+ Heading: 307.10, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.2000
+ Date: 21/03/2017 Time 17:01:20.897
+ Heading: 308.40, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.2000
+ Date: 21/03/2017 Time 17:01:20.997
+ Heading: 308.80, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.6000
+ Date: 21/03/2017 Time 17:01:21.097
+ Heading: 310.00, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.6000
+ Date: 21/03/2017 Time 17:01:21.197
+ Heading: 309.50, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.5000
+ Date: 21/03/2017 Time 17:01:21.297
+ Heading: 311.60, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.5000
+ Date: 21/03/2017 Time 17:01:21.397
+ Heading: 315.10, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.9000
+ Date: 21/03/2017 Time 17:01:21.497
+ Heading: 317.80, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.3000
+ Date: 21/03/2017 Time 17:01:21.597
+ Heading: 319.40, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.3000
+ Date: 21/03/2017 Time 17:01:21.697
+ Heading: 318.40, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.4000
+ Date: 21/03/2017 Time 17:01:21.797
+ Heading: 319.20, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.2000
+ Date: 21/03/2017 Time 17:01:21.897
+ Heading: 321.80, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.9000
+ Date: 21/03/2017 Time 17:01:21.997
+ Heading: 323.30, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.2000
+ Date: 21/03/2017 Time 17:01:22.097
+ Heading: 326.10, Velocity: 4.260
+Position Change event: lat: 48.7119, long: 2.2179, alt: 211.7000
+ Date: 21/03/2017 Time 17:01:22.197
+ Heading: 331.10, Velocity: 4.074
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.6000
+ Date: 21/03/2017 Time 17:01:22.297
+ Heading: 328.70, Velocity: 4.260
+Position Change event: lat: 48.7119, long: 2.2179, alt: 212.4000
+ Date: 21/03/2017 Time 17:01:22.397
+ Heading: 331.70, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 213.0000
+ Date: 21/03/2017 Time 17:01:22.497
+ Heading: 334.20, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 213.6000
+ Date: 21/03/2017 Time 17:01:22.597
+ Heading: 331.90, Velocity: 4.445
+Position Change event: lat: 48.7119, long: 2.2179, alt: 213.9000
+ Date: 21/03/2017 Time 17:01:22.697
+ Heading: 332.20, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2179, alt: 214.1000
+ Date: 21/03/2017 Time 17:01:22.797
+ Heading: 330.80, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2179, alt: 214.0000
+ Date: 21/03/2017 Time 17:01:22.897
+ Heading: 330.70, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2179, alt: 214.4000
+ Date: 21/03/2017 Time 17:01:22.997
+ Heading: 328.70, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2179, alt: 215.2000
+ Date: 21/03/2017 Time 17:01:23.097
+ Heading: 326.60, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2178, alt: 216.0000
+ Date: 21/03/2017 Time 17:01:23.197
+ Heading: 324.40, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2178, alt: 216.4000
+ Date: 21/03/2017 Time 17:01:23.297
+ Heading: 321.60, Velocity: 5.741
+Position Change event: lat: 48.7120, long: 2.2178, alt: 217.5000
+ Date: 21/03/2017 Time 17:01:23.397
+ Heading: 319.40, Velocity: 6.112
+Position Change event: lat: 48.7120, long: 2.2178, alt: 218.6000
+ Date: 21/03/2017 Time 17:01:23.497
+ Heading: 316.50, Velocity: 6.482
+Position Change event: lat: 48.7120, long: 2.2178, alt: 220.2000
+ Date: 21/03/2017 Time 17:01:23.597
+ Heading: 313.60, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2178, alt: 221.5000
+ Date: 21/03/2017 Time 17:01:23.697
+ Heading: 310.00, Velocity: 7.408
+Position Change event: lat: 48.7120, long: 2.2178, alt: 221.3000
+ Date: 21/03/2017 Time 17:01:23.797
+ Heading: 307.80, Velocity: 7.778
+Position Change event: lat: 48.7120, long: 2.2178, alt: 220.7000
+ Date: 21/03/2017 Time 17:01:23.897
+ Heading: 308.40, Velocity: 7.778
+Position Change event: lat: 48.7120, long: 2.2178, alt: 219.3000
+ Date: 21/03/2017 Time 17:01:23.997
+ Heading: 310.40, Velocity: 7.408
+Position Change event: lat: 48.7120, long: 2.2178, alt: 218.3000
+ Date: 21/03/2017 Time 17:01:24.097
+ Heading: 312.60, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2178, alt: 217.4000
+ Date: 21/03/2017 Time 17:01:24.197
+ Heading: 314.70, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2178, alt: 216.4000
+ Date: 21/03/2017 Time 17:01:24.297
+ Heading: 316.20, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2178, alt: 215.4000
+ Date: 21/03/2017 Time 17:01:24.397
+ Heading: 317.30, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2178, alt: 214.4000
+ Date: 21/03/2017 Time 17:01:24.497
+ Heading: 319.00, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2178, alt: 214.0000
+ Date: 21/03/2017 Time 17:01:24.597
+ Heading: 320.20, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2178, alt: 213.1000
+ Date: 21/03/2017 Time 17:01:24.697
+ Heading: 320.40, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2179, alt: 212.5000
+ Date: 21/03/2017 Time 17:01:24.797
+ Heading: 321.50, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2179, alt: 211.8000
+ Date: 21/03/2017 Time 17:01:24.897
+ Heading: 322.20, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2179, alt: 210.8000
+ Date: 21/03/2017 Time 17:01:24.997
+ Heading: 322.70, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 209.3000
+ Date: 21/03/2017 Time 17:01:25.097
+ Heading: 325.80, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 208.0000
+ Date: 21/03/2017 Time 17:01:25.197
+ Heading: 328.70, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 207.7000
+ Date: 21/03/2017 Time 17:01:25.297
+ Heading: 327.70, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 207.5000
+ Date: 21/03/2017 Time 17:01:25.397
+ Heading: 325.90, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2179, alt: 207.0000
+ Date: 21/03/2017 Time 17:01:25.497
+ Heading: 324.60, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2179, alt: 206.6000
+ Date: 21/03/2017 Time 17:01:25.597
+ Heading: 326.00, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 206.2000
+ Date: 21/03/2017 Time 17:01:25.697
+ Heading: 324.80, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 205.2000
+ Date: 21/03/2017 Time 17:01:25.797
+ Heading: 326.50, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 204.2000
+ Date: 21/03/2017 Time 17:01:25.897
+ Heading: 327.20, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:25.997
+ Heading: 328.90, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.7000
+ Date: 21/03/2017 Time 17:01:26.097
+ Heading: 331.40, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.9000
+ Date: 21/03/2017 Time 17:01:26.197
+ Heading: 332.10, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.5000
+ Date: 21/03/2017 Time 17:01:26.297
+ Heading: 333.00, Velocity: 6.482
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.1000
+ Date: 21/03/2017 Time 17:01:26.397
+ Heading: 333.20, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.4000
+ Date: 21/03/2017 Time 17:01:26.497
+ Heading: 332.80, Velocity: 6.852
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.8000
+ Date: 21/03/2017 Time 17:01:26.597
+ Heading: 332.30, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.3000
+ Date: 21/03/2017 Time 17:01:26.697
+ Heading: 331.90, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.1000
+ Date: 21/03/2017 Time 17:01:26.797
+ Heading: 329.90, Velocity: 7.408
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.0000
+ Date: 21/03/2017 Time 17:01:26.897
+ Heading: 329.80, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.7000
+ Date: 21/03/2017 Time 17:01:26.997
+ Heading: 330.30, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.9000
+ Date: 21/03/2017 Time 17:01:27.097
+ Heading: 331.20, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.8000
+ Date: 21/03/2017 Time 17:01:27.197
+ Heading: 331.50, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.7000
+ Date: 21/03/2017 Time 17:01:27.297
+ Heading: 331.60, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.7000
+ Date: 21/03/2017 Time 17:01:27.397
+ Heading: 330.90, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.9000
+ Date: 21/03/2017 Time 17:01:27.497
+ Heading: 330.90, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.0000
+ Date: 21/03/2017 Time 17:01:27.597
+ Heading: 330.70, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.2000
+ Date: 21/03/2017 Time 17:01:27.697
+ Heading: 330.10, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.5000
+ Date: 21/03/2017 Time 17:01:27.797
+ Heading: 329.30, Velocity: 7.778
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.7000
+ Date: 21/03/2017 Time 17:01:27.897
+ Heading: 328.30, Velocity: 7.778
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.3000
+ Date: 21/03/2017 Time 17:01:27.997
+ Heading: 329.20, Velocity: 7.964
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:28.097
+ Heading: 327.00, Velocity: 8.149
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.6000
+ Date: 21/03/2017 Time 17:01:28.197
+ Heading: 325.10, Velocity: 8.334
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.5000
+ Date: 21/03/2017 Time 17:01:28.297
+ Heading: 324.50, Velocity: 8.334
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.6000
+ Date: 21/03/2017 Time 17:01:28.397
+ Heading: 322.40, Velocity: 8.704
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.6000
+ Date: 21/03/2017 Time 17:01:28.497
+ Heading: 321.00, Velocity: 8.890
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:28.597
+ Heading: 319.80, Velocity: 8.890
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.9000
+ Date: 21/03/2017 Time 17:01:28.697
+ Heading: 318.40, Velocity: 9.075
+Position Change event: lat: 48.7120, long: 2.2179, alt: 204.0000
+ Date: 21/03/2017 Time 17:01:28.797
+ Heading: 317.70, Velocity: 9.260
+Position Change event: lat: 48.7120, long: 2.2179, alt: 203.3000
+ Date: 21/03/2017 Time 17:01:28.897
+ Heading: 316.00, Velocity: 9.260
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:28.997
+ Heading: 318.30, Velocity: 8.890
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:29.097
+ Heading: 319.40, Velocity: 8.704
+Position Change event: lat: 48.7120, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:29.197
+ Heading: 319.90, Velocity: 8.704
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.8000
+ Date: 21/03/2017 Time 17:01:29.297
+ Heading: 319.90, Velocity: 8.519
+Position Change event: lat: 48.7120, long: 2.2179, alt: 201.4000
+ Date: 21/03/2017 Time 17:01:29.397
+ Heading: 321.00, Velocity: 8.149
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.8000
+ Date: 21/03/2017 Time 17:01:29.497
+ Heading: 320.00, Velocity: 7.964
+Position Change event: lat: 48.7120, long: 2.2179, alt: 200.2000
+ Date: 21/03/2017 Time 17:01:29.597
+ Heading: 322.80, Velocity: 7.593
+Position Change event: lat: 48.7120, long: 2.2179, alt: 199.9000
+ Date: 21/03/2017 Time 17:01:29.697
+ Heading: 325.40, Velocity: 7.408
+Position Change event: lat: 48.7120, long: 2.2179, alt: 199.3000
+ Date: 21/03/2017 Time 17:01:29.797
+ Heading: 326.60, Velocity: 7.223
+Position Change event: lat: 48.7120, long: 2.2179, alt: 199.1000
+ Date: 21/03/2017 Time 17:01:29.897
+ Heading: 325.50, Velocity: 7.223
+Position Change event: lat: 48.7121, long: 2.2179, alt: 199.8000
+ Date: 21/03/2017 Time 17:01:29.997
+ Heading: 325.90, Velocity: 7.038
+Position Change event: lat: 48.7121, long: 2.2179, alt: 200.2000
+ Date: 21/03/2017 Time 17:01:30.097
+ Heading: 324.50, Velocity: 7.223
+Position Change event: lat: 48.7121, long: 2.2179, alt: 200.9000
+ Date: 21/03/2017 Time 17:01:30.197
+ Heading: 322.40, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2179, alt: 201.6000
+ Date: 21/03/2017 Time 17:01:30.297
+ Heading: 321.10, Velocity: 7.778
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.0000
+ Date: 21/03/2017 Time 17:01:30.397
+ Heading: 319.10, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.2000
+ Date: 21/03/2017 Time 17:01:30.497
+ Heading: 317.40, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.3000
+ Date: 21/03/2017 Time 17:01:30.597
+ Heading: 316.30, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:30.697
+ Heading: 315.90, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:30.797
+ Heading: 315.00, Velocity: 8.704
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.3000
+ Date: 21/03/2017 Time 17:01:30.897
+ Heading: 314.20, Velocity: 8.704
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:30.997
+ Heading: 314.00, Velocity: 8.890
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:31.097
+ Heading: 314.00, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:31.197
+ Heading: 314.80, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:31.297
+ Heading: 316.10, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:31.397
+ Heading: 317.10, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:31.497
+ Heading: 317.80, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:31.597
+ Heading: 319.80, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:31.697
+ Heading: 320.70, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:31.797
+ Heading: 320.50, Velocity: 5.926
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.0000
+ Date: 21/03/2017 Time 17:01:31.897
+ Heading: 320.60, Velocity: 6.112
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.0000
+ Date: 21/03/2017 Time 17:01:31.997
+ Heading: 320.00, Velocity: 6.297
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:32.097
+ Heading: 319.80, Velocity: 6.482
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.1000
+ Date: 21/03/2017 Time 17:01:32.197
+ Heading: 317.90, Velocity: 6.482
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:32.297
+ Heading: 316.50, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:32.397
+ Heading: 317.00, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:32.497
+ Heading: 315.20, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.1000
+ Date: 21/03/2017 Time 17:01:32.597
+ Heading: 317.40, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.2000
+ Date: 21/03/2017 Time 17:01:32.697
+ Heading: 317.90, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:32.797
+ Heading: 318.70, Velocity: 6.482
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:32.897
+ Heading: 319.40, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.6000
+ Date: 21/03/2017 Time 17:01:32.997
+ Heading: 320.70, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:33.097
+ Heading: 323.90, Velocity: 6.482
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:33.197
+ Heading: 323.70, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:33.297
+ Heading: 325.00, Velocity: 6.667
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:33.397
+ Heading: 323.90, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.0000
+ Date: 21/03/2017 Time 17:01:33.497
+ Heading: 322.40, Velocity: 7.038
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.9000
+ Date: 21/03/2017 Time 17:01:33.597
+ Heading: 321.80, Velocity: 7.038
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:33.697
+ Heading: 321.10, Velocity: 7.223
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:33.797
+ Heading: 321.00, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:33.897
+ Heading: 320.80, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:33.997
+ Heading: 320.00, Velocity: 7.593
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.4000
+ Date: 21/03/2017 Time 17:01:34.097
+ Heading: 322.10, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.2000
+ Date: 21/03/2017 Time 17:01:34.197
+ Heading: 323.50, Velocity: 7.223
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.2000
+ Date: 21/03/2017 Time 17:01:34.297
+ Heading: 322.10, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.2000
+ Date: 21/03/2017 Time 17:01:34.397
+ Heading: 320.80, Velocity: 7.593
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.5000
+ Date: 21/03/2017 Time 17:01:34.497
+ Heading: 318.60, Velocity: 7.778
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.7000
+ Date: 21/03/2017 Time 17:01:34.597
+ Heading: 317.00, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:34.697
+ Heading: 316.90, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2179, alt: 202.8000
+ Date: 21/03/2017 Time 17:01:34.797
+ Heading: 316.50, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.0000
+ Date: 21/03/2017 Time 17:01:34.897
+ Heading: 316.70, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2179, alt: 203.0000
+ Date: 21/03/2017 Time 17:01:34.997
+ Heading: 318.20, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2179, alt: 204.5000
+ Date: 21/03/2017 Time 17:01:35.097
+ Heading: 320.30, Velocity: 4.630
+Position Change event: lat: 48.7121, long: 2.2179, alt: 205.0000
+ Date: 21/03/2017 Time 17:01:35.197
+ Heading: 321.70, Velocity: 4.630
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.3000
+ Date: 21/03/2017 Time 17:01:35.297
+ Heading: 320.30, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.4000
+ Date: 21/03/2017 Time 17:01:35.397
+ Heading: 320.10, Velocity: 5.000
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:35.497
+ Heading: 317.40, Velocity: 5.186
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.6000
+ Date: 21/03/2017 Time 17:01:35.597
+ Heading: 315.50, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.7000
+ Date: 21/03/2017 Time 17:01:35.697
+ Heading: 314.30, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:35.897
+ Heading: 316.50, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:35.997
+ Heading: 316.00, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:36.097
+ Heading: 316.60, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:36.197
+ Heading: 316.90, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:36.297
+ Heading: 315.40, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.7000
+ Date: 21/03/2017 Time 17:01:36.397
+ Heading: 315.60, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.6000
+ Date: 21/03/2017 Time 17:01:36.497
+ Heading: 312.00, Velocity: 5.926
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.6000
+ Date: 21/03/2017 Time 17:01:36.597
+ Heading: 308.50, Velocity: 6.112
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.6000
+ Date: 21/03/2017 Time 17:01:36.697
+ Heading: 307.70, Velocity: 6.112
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:36.797
+ Heading: 306.40, Velocity: 6.297
+Position Change event: lat: 48.7121, long: 2.2178, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:36.897
+ Heading: 305.30, Velocity: 6.297
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:36.997
+ Heading: 304.10, Velocity: 6.482
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.4000
+ Date: 21/03/2017 Time 17:01:37.097
+ Heading: 302.70, Velocity: 6.852
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.4000
+ Date: 21/03/2017 Time 17:01:37.197
+ Heading: 303.10, Velocity: 6.852
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.5000
+ Date: 21/03/2017 Time 17:01:37.297
+ Heading: 303.60, Velocity: 7.038
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.6000
+ Date: 21/03/2017 Time 17:01:37.397
+ Heading: 303.10, Velocity: 7.223
+Position Change event: lat: 48.7122, long: 2.2178, alt: 205.8000
+ Date: 21/03/2017 Time 17:01:37.497
+ Heading: 301.90, Velocity: 7.593
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.0000
+ Date: 21/03/2017 Time 17:01:37.597
+ Heading: 301.50, Velocity: 7.778
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.2000
+ Date: 21/03/2017 Time 17:01:37.697
+ Heading: 302.20, Velocity: 7.964
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.5000
+ Date: 21/03/2017 Time 17:01:37.797
+ Heading: 301.50, Velocity: 8.334
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.6000
+ Date: 21/03/2017 Time 17:01:37.897
+ Heading: 301.40, Velocity: 8.519
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.8000
+ Date: 21/03/2017 Time 17:01:37.997
+ Heading: 300.50, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.9000
+ Date: 21/03/2017 Time 17:01:38.097
+ Heading: 300.30, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.8000
+ Date: 21/03/2017 Time 17:01:38.197
+ Heading: 299.90, Velocity: 8.890
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.8000
+ Date: 21/03/2017 Time 17:01:38.297
+ Heading: 299.50, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 206.9000
+ Date: 21/03/2017 Time 17:01:38.397
+ Heading: 299.40, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 207.2000
+ Date: 21/03/2017 Time 17:01:38.497
+ Heading: 299.70, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 207.4000
+ Date: 21/03/2017 Time 17:01:38.597
+ Heading: 300.40, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 207.7000
+ Date: 21/03/2017 Time 17:01:38.697
+ Heading: 302.70, Velocity: 8.334
+Position Change event: lat: 48.7122, long: 2.2178, alt: 208.3000
+ Date: 21/03/2017 Time 17:01:38.797
+ Heading: 304.30, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 209.1000
+ Date: 21/03/2017 Time 17:01:38.897
+ Heading: 306.70, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 209.6000
+ Date: 21/03/2017 Time 17:01:38.997
+ Heading: 308.20, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 210.2000
+ Date: 21/03/2017 Time 17:01:39.097
+ Heading: 309.90, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 210.8000
+ Date: 21/03/2017 Time 17:01:39.197
+ Heading: 310.40, Velocity: 8.334
+Position Change event: lat: 48.7122, long: 2.2178, alt: 211.4000
+ Date: 21/03/2017 Time 17:01:39.297
+ Heading: 312.00, Velocity: 8.334
+Position Change event: lat: 48.7122, long: 2.2178, alt: 212.1000
+ Date: 21/03/2017 Time 17:01:39.397
+ Heading: 311.80, Velocity: 8.519
+Position Change event: lat: 48.7122, long: 2.2178, alt: 212.8000
+ Date: 21/03/2017 Time 17:01:39.497
+ Heading: 311.20, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 213.3000
+ Date: 21/03/2017 Time 17:01:39.597
+ Heading: 311.10, Velocity: 8.890
+Position Change event: lat: 48.7122, long: 2.2178, alt: 213.8000
+ Date: 21/03/2017 Time 17:01:39.697
+ Heading: 312.40, Velocity: 8.890
+Position Change event: lat: 48.7122, long: 2.2178, alt: 214.3000
+ Date: 21/03/2017 Time 17:01:39.797
+ Heading: 312.20, Velocity: 8.890
+Position Change event: lat: 48.7122, long: 2.2178, alt: 214.8000
+ Date: 21/03/2017 Time 17:01:39.897
+ Heading: 312.30, Velocity: 9.075
+Position Change event: lat: 48.7122, long: 2.2178, alt: 215.5000
+ Date: 21/03/2017 Time 17:01:39.997
+ Heading: 313.90, Velocity: 9.075
+Position Change event: lat: 48.7122, long: 2.2178, alt: 216.1000
+ Date: 21/03/2017 Time 17:01:40.097
+ Heading: 316.40, Velocity: 8.890
+Position Change event: lat: 48.7122, long: 2.2178, alt: 216.6000
+ Date: 21/03/2017 Time 17:01:40.197
+ Heading: 319.80, Velocity: 8.704
+Position Change event: lat: 48.7122, long: 2.2178, alt: 217.1000
+ Date: 21/03/2017 Time 17:01:40.297
+ Heading: 322.30, Velocity: 8.519
+Position Change event: lat: 48.7122, long: 2.2178, alt: 217.5000
+ Date: 21/03/2017 Time 17:01:40.397
+ Heading: 326.10, Velocity: 8.334
+Position Change event: lat: 48.7122, long: 2.2178, alt: 217.9000
+ Date: 21/03/2017 Time 17:01:40.497
+ Heading: 330.20, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 218.4000
+ Date: 21/03/2017 Time 17:01:40.597
+ Heading: 335.30, Velocity: 7.964
+Position Change event: lat: 48.7122, long: 2.2178, alt: 218.9000
+ Date: 21/03/2017 Time 17:01:40.697
+ Heading: 339.90, Velocity: 7.964
+Position Change event: lat: 48.7122, long: 2.2178, alt: 219.4000
+ Date: 21/03/2017 Time 17:01:40.797
+ Heading: 343.30, Velocity: 7.964
+Position Change event: lat: 48.7122, long: 2.2178, alt: 220.0000
+ Date: 21/03/2017 Time 17:01:40.897
+ Heading: 344.60, Velocity: 8.149
+Position Change event: lat: 48.7122, long: 2.2178, alt: 220.9000
+ Date: 21/03/2017 Time 17:01:40.997
+ Heading: 342.70, Velocity: 8.149
+Position Change event: lat: 48.7123, long: 2.2178, alt: 221.7000
+ Date: 21/03/2017 Time 17:01:41.097
+ Heading: 339.70, Velocity: 8.519
+Position Change event: lat: 48.7123, long: 2.2178, alt: 222.7000
+ Date: 21/03/2017 Time 17:01:41.197
+ Heading: 335.90, Velocity: 8.704
+Position Change event: lat: 48.7123, long: 2.2178, alt: 223.5000
+ Date: 21/03/2017 Time 17:01:41.297
+ Heading: 332.80, Velocity: 9.075
+Position Change event: lat: 48.7123, long: 2.2177, alt: 224.4000
+ Date: 21/03/2017 Time 17:01:41.397
+ Heading: 328.60, Velocity: 9.445
+Position Change event: lat: 48.7123, long: 2.2177, alt: 224.9000
+ Date: 21/03/2017 Time 17:01:41.497
+ Heading: 325.80, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 225.3000
+ Date: 21/03/2017 Time 17:01:41.597
+ Heading: 324.30, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 225.8000
+ Date: 21/03/2017 Time 17:01:41.697
+ Heading: 325.40, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 226.3000
+ Date: 21/03/2017 Time 17:01:41.797
+ Heading: 325.50, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 226.9000
+ Date: 21/03/2017 Time 17:01:41.897
+ Heading: 324.90, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 227.2000
+ Date: 21/03/2017 Time 17:01:41.997
+ Heading: 323.90, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 227.7000
+ Date: 21/03/2017 Time 17:01:42.097
+ Heading: 324.90, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 228.1000
+ Date: 21/03/2017 Time 17:01:42.197
+ Heading: 325.50, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 228.8000
+ Date: 21/03/2017 Time 17:01:42.297
+ Heading: 326.10, Velocity: 9.630
+Position Change event: lat: 48.7123, long: 2.2177, alt: 229.6000
+ Date: 21/03/2017 Time 17:01:42.397
+ Heading: 323.70, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 230.3000
+ Date: 21/03/2017 Time 17:01:42.497
+ Heading: 322.20, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2177, alt: 230.9000
+ Date: 21/03/2017 Time 17:01:42.597
+ Heading: 321.10, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2177, alt: 231.5000
+ Date: 21/03/2017 Time 17:01:42.697
+ Heading: 321.60, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2177, alt: 232.2000
+ Date: 21/03/2017 Time 17:01:42.797
+ Heading: 321.70, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 232.7000
+ Date: 21/03/2017 Time 17:01:42.897
+ Heading: 321.60, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2177, alt: 233.7000
+ Date: 21/03/2017 Time 17:01:42.997
+ Heading: 321.80, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 234.4000
+ Date: 21/03/2017 Time 17:01:43.097
+ Heading: 322.30, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 234.9000
+ Date: 21/03/2017 Time 17:01:43.197
+ Heading: 322.00, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 235.8000
+ Date: 21/03/2017 Time 17:01:43.297
+ Heading: 322.00, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 236.6000
+ Date: 21/03/2017 Time 17:01:43.397
+ Heading: 321.20, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2177, alt: 237.1000
+ Date: 21/03/2017 Time 17:01:43.497
+ Heading: 319.90, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2177, alt: 237.8000
+ Date: 21/03/2017 Time 17:01:43.597
+ Heading: 317.60, Velocity: 10.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 238.6000
+ Date: 21/03/2017 Time 17:01:43.697
+ Heading: 316.60, Velocity: 10.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 239.2000
+ Date: 21/03/2017 Time 17:01:43.797
+ Heading: 315.10, Velocity: 10.371
+Position Change event: lat: 48.7123, long: 2.2176, alt: 240.1000
+ Date: 21/03/2017 Time 17:01:43.897
+ Heading: 313.80, Velocity: 10.556
+Position Change event: lat: 48.7123, long: 2.2176, alt: 240.5000
+ Date: 21/03/2017 Time 17:01:43.997
+ Heading: 312.30, Velocity: 10.742
+Position Change event: lat: 48.7123, long: 2.2176, alt: 240.8000
+ Date: 21/03/2017 Time 17:01:44.097
+ Heading: 311.20, Velocity: 10.742
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.2000
+ Date: 21/03/2017 Time 17:01:44.197
+ Heading: 310.50, Velocity: 10.742
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.3000
+ Date: 21/03/2017 Time 17:01:44.297
+ Heading: 310.00, Velocity: 10.742
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.1000
+ Date: 21/03/2017 Time 17:01:44.397
+ Heading: 310.40, Velocity: 10.742
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.0000
+ Date: 21/03/2017 Time 17:01:44.497
+ Heading: 311.30, Velocity: 10.556
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.2000
+ Date: 21/03/2017 Time 17:01:44.597
+ Heading: 311.90, Velocity: 10.371
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.2000
+ Date: 21/03/2017 Time 17:01:44.697
+ Heading: 313.70, Velocity: 10.186
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.5000
+ Date: 21/03/2017 Time 17:01:44.797
+ Heading: 316.20, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2176, alt: 241.5000
+ Date: 21/03/2017 Time 17:01:44.897
+ Heading: 317.90, Velocity: 9.630
+Position Change event: lat: 48.7123, long: 2.2177, alt: 241.8000
+ Date: 21/03/2017 Time 17:01:44.997
+ Heading: 318.40, Velocity: 9.445
+Position Change event: lat: 48.7123, long: 2.2177, alt: 242.0000
+ Date: 21/03/2017 Time 17:01:45.097
+ Heading: 321.30, Velocity: 9.260
+Position Change event: lat: 48.7123, long: 2.2177, alt: 242.4000
+ Date: 21/03/2017 Time 17:01:45.197
+ Heading: 322.30, Velocity: 9.260
+Position Change event: lat: 48.7123, long: 2.2177, alt: 242.8000
+ Date: 21/03/2017 Time 17:01:45.297
+ Heading: 323.60, Velocity: 9.260
+Position Change event: lat: 48.7123, long: 2.2176, alt: 243.5000
+ Date: 21/03/2017 Time 17:01:45.397
+ Heading: 323.70, Velocity: 9.260
+Position Change event: lat: 48.7123, long: 2.2176, alt: 244.6000
+ Date: 21/03/2017 Time 17:01:45.497
+ Heading: 321.80, Velocity: 9.260
+Position Change event: lat: 48.7123, long: 2.2176, alt: 245.6000
+ Date: 21/03/2017 Time 17:01:45.597
+ Heading: 319.30, Velocity: 9.445
+Position Change event: lat: 48.7123, long: 2.2176, alt: 246.7000
+ Date: 21/03/2017 Time 17:01:45.697
+ Heading: 317.30, Velocity: 9.816
+Position Change event: lat: 48.7123, long: 2.2176, alt: 248.1000
+ Date: 21/03/2017 Time 17:01:45.797
+ Heading: 314.90, Velocity: 10.001
+Position Change event: lat: 48.7123, long: 2.2176, alt: 249.0000
+ Date: 21/03/2017 Time 17:01:45.897
+ Heading: 312.60, Velocity: 10.371
+Position Change event: lat: 48.7123, long: 2.2176, alt: 250.2000
+ Date: 21/03/2017 Time 17:01:45.997
+ Heading: 310.70, Velocity: 10.556
+Position Change event: lat: 48.7123, long: 2.2176, alt: 250.8000
+ Date: 21/03/2017 Time 17:01:46.097
+ Heading: 308.50, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 251.6000
+ Date: 21/03/2017 Time 17:01:46.197
+ Heading: 306.10, Velocity: 7.038
+Position Change event: lat: 48.7123, long: 2.2176, alt: 252.3000
+ Date: 21/03/2017 Time 17:01:46.297
+ Heading: 305.20, Velocity: 7.223
+Position Change event: lat: 48.7123, long: 2.2176, alt: 253.1000
+ Date: 21/03/2017 Time 17:01:46.397
+ Heading: 304.80, Velocity: 7.223
+Position Change event: lat: 48.7123, long: 2.2176, alt: 253.3000
+ Date: 21/03/2017 Time 17:01:46.497
+ Heading: 304.00, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2176, alt: 253.7000
+ Date: 21/03/2017 Time 17:01:46.597
+ Heading: 304.50, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2176, alt: 254.3000
+ Date: 21/03/2017 Time 17:01:46.697
+ Heading: 304.80, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2176, alt: 254.4000
+ Date: 21/03/2017 Time 17:01:46.797
+ Heading: 304.30, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2176, alt: 254.8000
+ Date: 21/03/2017 Time 17:01:46.897
+ Heading: 304.20, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2176, alt: 255.0000
+ Date: 21/03/2017 Time 17:01:46.997
+ Heading: 303.60, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2175, alt: 255.7000
+ Date: 21/03/2017 Time 17:01:47.097
+ Heading: 303.20, Velocity: 7.408
+Position Change event: lat: 48.7123, long: 2.2175, alt: 256.0000
+ Date: 21/03/2017 Time 17:01:47.197
+ Heading: 302.70, Velocity: 7.593
+Position Change event: lat: 48.7123, long: 2.2175, alt: 256.4000
+ Date: 21/03/2017 Time 17:01:47.297
+ Heading: 302.60, Velocity: 7.593
+Position Change event: lat: 48.7123, long: 2.2175, alt: 256.6000
+ Date: 21/03/2017 Time 17:01:47.397
+ Heading: 302.70, Velocity: 7.593
+Position Change event: lat: 48.7124, long: 2.2175, alt: 257.2000
+ Date: 21/03/2017 Time 17:01:47.497
+ Heading: 302.50, Velocity: 7.593
+Position Change event: lat: 48.7124, long: 2.2175, alt: 257.6000
+ Date: 21/03/2017 Time 17:01:47.597
+ Heading: 302.00, Velocity: 7.778
+Position Change event: lat: 48.7124, long: 2.2175, alt: 257.6000
+ Date: 21/03/2017 Time 17:01:47.697
+ Heading: 301.20, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2175, alt: 258.3000
+ Date: 21/03/2017 Time 17:01:47.797
+ Heading: 300.80, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2175, alt: 258.6000
+ Date: 21/03/2017 Time 17:01:47.897
+ Heading: 300.80, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2175, alt: 259.5000
+ Date: 21/03/2017 Time 17:01:47.997
+ Heading: 300.30, Velocity: 8.149
+Position Change event: lat: 48.7124, long: 2.2175, alt: 260.1000
+ Date: 21/03/2017 Time 17:01:48.097
+ Heading: 300.30, Velocity: 8.149
+Position Change event: lat: 48.7124, long: 2.2175, alt: 260.8000
+ Date: 21/03/2017 Time 17:01:48.197
+ Heading: 300.30, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2175, alt: 261.4000
+ Date: 21/03/2017 Time 17:01:48.297
+ Heading: 301.00, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2175, alt: 262.1000
+ Date: 21/03/2017 Time 17:01:48.397
+ Heading: 301.40, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 262.9000
+ Date: 21/03/2017 Time 17:01:48.497
+ Heading: 301.90, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 263.0000
+ Date: 21/03/2017 Time 17:01:48.597
+ Heading: 303.20, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 264.1000
+ Date: 21/03/2017 Time 17:01:48.697
+ Heading: 304.80, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 265.2000
+ Date: 21/03/2017 Time 17:01:48.797
+ Heading: 306.40, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2175, alt: 265.9000
+ Date: 21/03/2017 Time 17:01:48.897
+ Heading: 307.50, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 266.6000
+ Date: 21/03/2017 Time 17:01:48.997
+ Heading: 306.80, Velocity: 8.519
+Position Change event: lat: 48.7124, long: 2.2175, alt: 267.5000
+ Date: 21/03/2017 Time 17:01:49.097
+ Heading: 306.50, Velocity: 8.704
+Position Change event: lat: 48.7124, long: 2.2175, alt: 268.7000
+ Date: 21/03/2017 Time 17:01:49.197
+ Heading: 306.20, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2175, alt: 269.6000
+ Date: 21/03/2017 Time 17:01:49.297
+ Heading: 306.60, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2175, alt: 270.2000
+ Date: 21/03/2017 Time 17:01:49.397
+ Heading: 306.90, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2175, alt: 270.7000
+ Date: 21/03/2017 Time 17:01:49.497
+ Heading: 307.30, Velocity: 9.075
+Position Change event: lat: 48.7124, long: 2.2175, alt: 271.0000
+ Date: 21/03/2017 Time 17:01:49.597
+ Heading: 308.00, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2174, alt: 271.2000
+ Date: 21/03/2017 Time 17:01:49.697
+ Heading: 308.20, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2174, alt: 272.0000
+ Date: 21/03/2017 Time 17:01:49.797
+ Heading: 308.20, Velocity: 8.890
+Position Change event: lat: 48.7124, long: 2.2174, alt: 272.5000
+ Date: 21/03/2017 Time 17:01:49.897
+ Heading: 307.80, Velocity: 9.075
+Position Change event: lat: 48.7124, long: 2.2174, alt: 273.0000
+ Date: 21/03/2017 Time 17:01:49.997
+ Heading: 307.50, Velocity: 9.075
+Position Change event: lat: 48.7124, long: 2.2174, alt: 273.3000
+ Date: 21/03/2017 Time 17:01:50.097
+ Heading: 307.00, Velocity: 9.260
+Position Change event: lat: 48.7124, long: 2.2174, alt: 274.5000
+ Date: 21/03/2017 Time 17:01:50.197
+ Heading: 307.30, Velocity: 9.260
+Position Change event: lat: 48.7124, long: 2.2174, alt: 275.1000
+ Date: 21/03/2017 Time 17:01:50.297
+ Heading: 307.40, Velocity: 9.445
+Position Change event: lat: 48.7124, long: 2.2174, alt: 275.9000
+ Date: 21/03/2017 Time 17:01:50.397
+ Heading: 307.40, Velocity: 9.445
+Position Change event: lat: 48.7124, long: 2.2174, alt: 277.2000
+ Date: 21/03/2017 Time 17:01:50.497
+ Heading: 307.20, Velocity: 9.630
+Position Change event: lat: 48.7124, long: 2.2174, alt: 278.3000
+ Date: 21/03/2017 Time 17:01:50.597
+ Heading: 306.80, Velocity: 9.630
+Position Change event: lat: 48.7124, long: 2.2174, alt: 278.9000
+ Date: 21/03/2017 Time 17:01:50.697
+ Heading: 306.70, Velocity: 9.816
+Position Change event: lat: 48.7124, long: 2.2174, alt: 280.0000
+ Date: 21/03/2017 Time 17:01:50.797
+ Heading: 307.10, Velocity: 9.816
+Position Change event: lat: 48.7124, long: 2.2174, alt: 281.1000
+ Date: 21/03/2017 Time 17:01:50.897
+ Heading: 307.60, Velocity: 9.816
+Position Change event: lat: 48.7124, long: 2.2174, alt: 281.7000
+ Date: 21/03/2017 Time 17:01:50.997
+ Heading: 306.50, Velocity: 10.001
+Position Change event: lat: 48.7124, long: 2.2174, alt: 281.9000
+ Date: 21/03/2017 Time 17:01:51.097
+ Heading: 305.90, Velocity: 10.001
+Position Change event: lat: 48.7124, long: 2.2174, alt: 282.6000
+ Date: 21/03/2017 Time 17:01:51.197
+ Heading: 306.30, Velocity: 10.001
+Position Change event: lat: 48.7124, long: 2.2174, alt: 283.3000
+ Date: 21/03/2017 Time 17:01:51.297
+ Heading: 305.50, Velocity: 10.001
+Position Change event: lat: 48.7124, long: 2.2174, alt: 284.0000
+ Date: 21/03/2017 Time 17:01:51.397
+ Heading: 305.10, Velocity: 10.186
+Position Change event: lat: 48.7124, long: 2.2174, alt: 284.6000
+ Date: 21/03/2017 Time 17:01:51.497
+ Heading: 305.20, Velocity: 10.186
+Position Change event: lat: 48.7124, long: 2.2174, alt: 285.2000
+ Date: 21/03/2017 Time 17:01:51.597
+ Heading: 304.50, Velocity: 10.371
+Position Change event: lat: 48.7124, long: 2.2174, alt: 285.8000
+ Date: 21/03/2017 Time 17:01:51.697
+ Heading: 304.30, Velocity: 10.371
+Position Change event: lat: 48.7124, long: 2.2174, alt: 286.6000
+ Date: 21/03/2017 Time 17:01:51.797
+ Heading: 303.60, Velocity: 10.556
+Position Change event: lat: 48.7124, long: 2.2173, alt: 287.1000
+ Date: 21/03/2017 Time 17:01:51.897
+ Heading: 303.70, Velocity: 10.556
+Position Change event: lat: 48.7124, long: 2.2173, alt: 289.3000
+ Date: 21/03/2017 Time 17:01:51.997
+ Heading: 303.20, Velocity: 10.742
+Position Change event: lat: 48.7124, long: 2.2173, alt: 290.5000
+ Date: 21/03/2017 Time 17:01:52.097
+ Heading: 303.50, Velocity: 10.927
+Position Change event: lat: 48.7124, long: 2.2173, alt: 292.3000
+ Date: 21/03/2017 Time 17:01:52.197
+ Heading: 303.40, Velocity: 11.112
+Position Change event: lat: 48.7124, long: 2.2173, alt: 294.3000
+ Date: 21/03/2017 Time 17:01:52.297
+ Heading: 302.90, Velocity: 11.297
+Position Change event: lat: 48.7124, long: 2.2173, alt: 296.3000
+ Date: 21/03/2017 Time 17:01:52.397
+ Heading: 302.20, Velocity: 11.668
+Position Change event: lat: 48.7124, long: 2.2173, alt: 298.9000
+ Date: 21/03/2017 Time 17:01:52.497
+ Heading: 302.20, Velocity: 12.038
+Position Change event: lat: 48.7124, long: 2.2173, alt: 300.4000
+ Date: 21/03/2017 Time 17:01:52.597
+ Heading: 301.60, Velocity: 12.408
+Position Change event: lat: 48.7125, long: 2.2173, alt: 302.2000
+ Date: 21/03/2017 Time 17:01:52.697
+ Heading: 301.00, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2173, alt: 303.7000
+ Date: 21/03/2017 Time 17:01:52.797
+ Heading: 301.10, Velocity: 12.964
+Position Change event: lat: 48.7125, long: 2.2172, alt: 305.3000
+ Date: 21/03/2017 Time 17:01:52.897
+ Heading: 301.40, Velocity: 12.964
+Position Change event: lat: 48.7125, long: 2.2172, alt: 306.9000
+ Date: 21/03/2017 Time 17:01:52.997
+ Heading: 302.00, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2172, alt: 308.0000
+ Date: 21/03/2017 Time 17:01:53.097
+ Heading: 302.40, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2172, alt: 308.9000
+ Date: 21/03/2017 Time 17:01:53.197
+ Heading: 302.40, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2172, alt: 309.9000
+ Date: 21/03/2017 Time 17:01:53.297
+ Heading: 303.10, Velocity: 12.594
+Position Change event: lat: 48.7125, long: 2.2172, alt: 310.7000
+ Date: 21/03/2017 Time 17:01:53.397
+ Heading: 302.80, Velocity: 12.594
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.4000
+ Date: 21/03/2017 Time 17:01:53.497
+ Heading: 302.70, Velocity: 12.594
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.8000
+ Date: 21/03/2017 Time 17:01:53.597
+ Heading: 301.90, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.8000
+ Date: 21/03/2017 Time 17:01:53.697
+ Heading: 301.20, Velocity: 12.964
+Position Change event: lat: 48.7125, long: 2.2172, alt: 315.0000
+ Date: 21/03/2017 Time 17:01:53.797
+ Heading: 301.20, Velocity: 12.779
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.8000
+ Date: 21/03/2017 Time 17:01:53.897
+ Heading: 301.70, Velocity: 12.594
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.6000
+ Date: 21/03/2017 Time 17:01:53.997
+ Heading: 302.20, Velocity: 12.408
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.3000
+ Date: 21/03/2017 Time 17:01:54.097
+ Heading: 302.60, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.9000
+ Date: 21/03/2017 Time 17:01:54.197
+ Heading: 304.30, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.0000
+ Date: 21/03/2017 Time 17:01:54.297
+ Heading: 305.80, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.9000
+ Date: 21/03/2017 Time 17:01:54.397
+ Heading: 305.80, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.4000
+ Date: 21/03/2017 Time 17:01:54.497
+ Heading: 306.00, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.8000
+ Date: 21/03/2017 Time 17:01:54.597
+ Heading: 305.60, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.2000
+ Date: 21/03/2017 Time 17:01:54.697
+ Heading: 307.30, Velocity: 7.038
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.6000
+ Date: 21/03/2017 Time 17:01:54.797
+ Heading: 308.10, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.8000
+ Date: 21/03/2017 Time 17:01:54.897
+ Heading: 308.40, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2172, alt: 312.9000
+ Date: 21/03/2017 Time 17:01:54.997
+ Heading: 308.70, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.5000
+ Date: 21/03/2017 Time 17:01:55.097
+ Heading: 309.10, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.4000
+ Date: 21/03/2017 Time 17:01:55.197
+ Heading: 308.80, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.3000
+ Date: 21/03/2017 Time 17:01:55.297
+ Heading: 309.00, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.5000
+ Date: 21/03/2017 Time 17:01:55.397
+ Heading: 309.30, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2172, alt: 313.6000
+ Date: 21/03/2017 Time 17:01:55.497
+ Heading: 308.00, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.1000
+ Date: 21/03/2017 Time 17:01:55.597
+ Heading: 307.50, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.1000
+ Date: 21/03/2017 Time 17:01:55.697
+ Heading: 307.20, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2172, alt: 314.6000
+ Date: 21/03/2017 Time 17:01:55.797
+ Heading: 306.70, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2172, alt: 315.1000
+ Date: 21/03/2017 Time 17:01:55.897
+ Heading: 307.80, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2172, alt: 315.4000
+ Date: 21/03/2017 Time 17:01:55.997
+ Heading: 307.50, Velocity: 7.038
+Position Change event: lat: 48.7125, long: 2.2172, alt: 315.5000
+ Date: 21/03/2017 Time 17:01:56.097
+ Heading: 307.20, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2172, alt: 316.2000
+ Date: 21/03/2017 Time 17:01:56.197
+ Heading: 306.70, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2172, alt: 317.3000
+ Date: 21/03/2017 Time 17:01:56.297
+ Heading: 306.30, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2172, alt: 318.2000
+ Date: 21/03/2017 Time 17:01:56.397
+ Heading: 305.50, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2171, alt: 319.2000
+ Date: 21/03/2017 Time 17:01:56.497
+ Heading: 304.40, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2171, alt: 320.3000
+ Date: 21/03/2017 Time 17:01:56.597
+ Heading: 303.60, Velocity: 8.519
+Position Change event: lat: 48.7125, long: 2.2171, alt: 321.4000
+ Date: 21/03/2017 Time 17:01:56.697
+ Heading: 302.50, Velocity: 8.704
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.2000
+ Date: 21/03/2017 Time 17:01:56.797
+ Heading: 301.80, Velocity: 8.890
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.8000
+ Date: 21/03/2017 Time 17:01:56.897
+ Heading: 301.20, Velocity: 9.075
+Position Change event: lat: 48.7125, long: 2.2171, alt: 323.0000
+ Date: 21/03/2017 Time 17:01:56.997
+ Heading: 301.10, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.5000
+ Date: 21/03/2017 Time 17:01:57.097
+ Heading: 301.00, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.1000
+ Date: 21/03/2017 Time 17:01:57.197
+ Heading: 301.50, Velocity: 9.075
+Position Change event: lat: 48.7125, long: 2.2171, alt: 321.7000
+ Date: 21/03/2017 Time 17:01:57.297
+ Heading: 301.90, Velocity: 9.075
+Position Change event: lat: 48.7125, long: 2.2171, alt: 321.9000
+ Date: 21/03/2017 Time 17:01:57.397
+ Heading: 301.70, Velocity: 9.075
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.1000
+ Date: 21/03/2017 Time 17:01:57.497
+ Heading: 301.70, Velocity: 9.075
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.4000
+ Date: 21/03/2017 Time 17:01:57.597
+ Heading: 300.60, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2171, alt: 322.0000
+ Date: 21/03/2017 Time 17:01:57.697
+ Heading: 300.20, Velocity: 9.445
+Position Change event: lat: 48.7125, long: 2.2171, alt: 321.4000
+ Date: 21/03/2017 Time 17:01:57.797
+ Heading: 300.10, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2171, alt: 321.1000
+ Date: 21/03/2017 Time 17:01:57.897
+ Heading: 300.10, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2172, alt: 311.4000
+ Date: 21/03/2017 Time 17:01:57.997
+ Heading: 300.00, Velocity: 9.260
+Position Change event: lat: 48.7125, long: 2.2172, alt: 301.9000
+ Date: 21/03/2017 Time 17:01:58.097
+ Heading: 300.30, Velocity: 5.556
+Position Change event: lat: 48.7125, long: 2.2172, alt: 294.9000
+ Date: 21/03/2017 Time 17:01:58.197
+ Heading: 300.10, Velocity: 5.186
+Position Change event: lat: 48.7125, long: 2.2173, alt: 287.5000
+ Date: 21/03/2017 Time 17:01:58.297
+ Heading: 301.00, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2173, alt: 281.4000
+ Date: 21/03/2017 Time 17:01:58.397
+ Heading: 300.50, Velocity: 4.630
+Position Change event: lat: 48.7125, long: 2.2173, alt: 276.7000
+ Date: 21/03/2017 Time 17:01:58.497
+ Heading: 300.70, Velocity: 4.445
+Position Change event: lat: 48.7125, long: 2.2174, alt: 272.6000
+ Date: 21/03/2017 Time 17:01:58.597
+ Heading: 302.50, Velocity: 4.630
+Position Change event: lat: 48.7125, long: 2.2174, alt: 269.0000
+ Date: 21/03/2017 Time 17:01:58.697
+ Heading: 302.50, Velocity: 4.815
+Position Change event: lat: 48.7125, long: 2.2174, alt: 265.5000
+ Date: 21/03/2017 Time 17:01:58.797
+ Heading: 302.00, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2174, alt: 262.5000
+ Date: 21/03/2017 Time 17:01:58.897
+ Heading: 303.00, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2174, alt: 262.1000
+ Date: 21/03/2017 Time 17:01:58.997
+ Heading: 303.40, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2174, alt: 264.8000
+ Date: 21/03/2017 Time 17:01:59.097
+ Heading: 300.00, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2174, alt: 265.7000
+ Date: 21/03/2017 Time 17:01:59.197
+ Heading: 294.50, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2174, alt: 266.2000
+ Date: 21/03/2017 Time 17:01:59.297
+ Heading: 291.40, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2174, alt: 266.2000
+ Date: 21/03/2017 Time 17:01:59.397
+ Heading: 288.10, Velocity: 7.038
+Position Change event: lat: 48.7125, long: 2.2174, alt: 266.1000
+ Date: 21/03/2017 Time 17:01:59.497
+ Heading: 287.50, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2173, alt: 266.7000
+ Date: 21/03/2017 Time 17:01:59.597
+ Heading: 286.90, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2173, alt: 266.8000
+ Date: 21/03/2017 Time 17:01:59.697
+ Heading: 284.30, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2173, alt: 266.7000
+ Date: 21/03/2017 Time 17:01:59.797
+ Heading: 283.00, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2173, alt: 266.6000
+ Date: 21/03/2017 Time 17:01:59.897
+ Heading: 282.40, Velocity: 8.334
+Position Change event: lat: 48.7125, long: 2.2174, alt: 263.1000
+ Date: 21/03/2017 Time 17:01:59.997
+ Heading: 281.70, Velocity: 8.519
+Position Change event: lat: 48.7125, long: 2.2174, alt: 260.8000
+ Date: 21/03/2017 Time 17:02:00.097
+ Heading: 280.80, Velocity: 8.519
+Position Change event: lat: 48.7125, long: 2.2175, alt: 243.4000
+ Date: 21/03/2017 Time 17:02:00.197
+ Heading: 280.10, Velocity: 8.334
+Position Change event: lat: 48.7125, long: 2.2175, alt: 231.9000
+ Date: 21/03/2017 Time 17:02:00.297
+ Heading: 279.70, Velocity: 7.778
+Position Change event: lat: 48.7125, long: 2.2176, alt: 223.9000
+ Date: 21/03/2017 Time 17:02:00.397
+ Heading: 280.80, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2176, alt: 217.5000
+ Date: 21/03/2017 Time 17:02:00.497
+ Heading: 281.90, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2176, alt: 212.6000
+ Date: 21/03/2017 Time 17:02:00.597
+ Heading: 280.50, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2176, alt: 208.7000
+ Date: 21/03/2017 Time 17:02:00.697
+ Heading: 279.70, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2177, alt: 205.7000
+ Date: 21/03/2017 Time 17:02:00.797
+ Heading: 279.80, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2177, alt: 202.7000
+ Date: 21/03/2017 Time 17:02:00.897
+ Heading: 279.50, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 200.3000
+ Date: 21/03/2017 Time 17:02:00.997
+ Heading: 279.70, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 198.1000
+ Date: 21/03/2017 Time 17:02:01.097
+ Heading: 280.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 196.6000
+ Date: 21/03/2017 Time 17:02:01.197
+ Heading: 279.70, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 194.9000
+ Date: 21/03/2017 Time 17:02:01.297
+ Heading: 280.40, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 193.7000
+ Date: 21/03/2017 Time 17:02:01.397
+ Heading: 279.30, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 192.8000
+ Date: 21/03/2017 Time 17:02:01.497
+ Heading: 279.50, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 192.0000
+ Date: 21/03/2017 Time 17:02:01.597
+ Heading: 280.50, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 191.1000
+ Date: 21/03/2017 Time 17:02:01.697
+ Heading: 282.30, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 190.7000
+ Date: 21/03/2017 Time 17:02:01.797
+ Heading: 281.10, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 189.8000
+ Date: 21/03/2017 Time 17:02:01.897
+ Heading: 282.00, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2177, alt: 188.6000
+ Date: 21/03/2017 Time 17:02:01.997
+ Heading: 281.90, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2177, alt: 187.3000
+ Date: 21/03/2017 Time 17:02:02.097
+ Heading: 281.10, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2177, alt: 186.0000
+ Date: 21/03/2017 Time 17:02:02.197
+ Heading: 281.70, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2178, alt: 184.9000
+ Date: 21/03/2017 Time 17:02:02.297
+ Heading: 281.80, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 184.0000
+ Date: 21/03/2017 Time 17:02:02.397
+ Heading: 282.10, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 183.1000
+ Date: 21/03/2017 Time 17:02:02.497
+ Heading: 282.30, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 182.1000
+ Date: 21/03/2017 Time 17:02:02.597
+ Heading: 281.30, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 181.2000
+ Date: 21/03/2017 Time 17:02:02.697
+ Heading: 280.50, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 180.3000
+ Date: 21/03/2017 Time 17:02:02.797
+ Heading: 279.40, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 180.2000
+ Date: 21/03/2017 Time 17:02:02.897
+ Heading: 278.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 179.7000
+ Date: 21/03/2017 Time 17:02:02.997
+ Heading: 278.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2178, alt: 179.4000
+ Date: 21/03/2017 Time 17:02:03.097
+ Heading: 276.90, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 179.2000
+ Date: 21/03/2017 Time 17:02:03.197
+ Heading: 276.00, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 178.8000
+ Date: 21/03/2017 Time 17:02:03.297
+ Heading: 275.50, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 178.6000
+ Date: 21/03/2017 Time 17:02:03.397
+ Heading: 273.70, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2178, alt: 178.2000
+ Date: 21/03/2017 Time 17:02:03.497
+ Heading: 273.90, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.8000
+ Date: 21/03/2017 Time 17:02:03.597
+ Heading: 273.80, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.4000
+ Date: 21/03/2017 Time 17:02:03.697
+ Heading: 274.70, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.5000
+ Date: 21/03/2017 Time 17:02:03.797
+ Heading: 272.70, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.2000
+ Date: 21/03/2017 Time 17:02:03.897
+ Heading: 273.70, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.1000
+ Date: 21/03/2017 Time 17:02:03.997
+ Heading: 271.90, Velocity: 6.667
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.5000
+ Date: 21/03/2017 Time 17:02:04.097
+ Heading: 271.30, Velocity: 7.038
+Position Change event: lat: 48.7125, long: 2.2178, alt: 177.7000
+ Date: 21/03/2017 Time 17:02:04.197
+ Heading: 271.00, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.1000
+ Date: 21/03/2017 Time 17:02:04.297
+ Heading: 271.30, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.5000
+ Date: 21/03/2017 Time 17:02:04.397
+ Heading: 272.20, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.7000
+ Date: 21/03/2017 Time 17:02:04.497
+ Heading: 273.00, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.6000
+ Date: 21/03/2017 Time 17:02:04.597
+ Heading: 273.10, Velocity: 7.223
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.5000
+ Date: 21/03/2017 Time 17:02:04.697
+ Heading: 271.60, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.5000
+ Date: 21/03/2017 Time 17:02:04.797
+ Heading: 270.80, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.7000
+ Date: 21/03/2017 Time 17:02:04.897
+ Heading: 269.90, Velocity: 7.778
+Position Change event: lat: 48.7125, long: 2.2177, alt: 178.4000
+ Date: 21/03/2017 Time 17:02:04.997
+ Heading: 269.50, Velocity: 7.778
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.8000
+ Date: 21/03/2017 Time 17:02:05.097
+ Heading: 269.90, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.5000
+ Date: 21/03/2017 Time 17:02:05.197
+ Heading: 270.00, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.3000
+ Date: 21/03/2017 Time 17:02:05.297
+ Heading: 270.50, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.4000
+ Date: 21/03/2017 Time 17:02:05.397
+ Heading: 270.10, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.1000
+ Date: 21/03/2017 Time 17:02:05.497
+ Heading: 269.90, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.8000
+ Date: 21/03/2017 Time 17:02:05.597
+ Heading: 269.70, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 177.0000
+ Date: 21/03/2017 Time 17:02:05.697
+ Heading: 268.80, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.7000
+ Date: 21/03/2017 Time 17:02:05.797
+ Heading: 269.50, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.4000
+ Date: 21/03/2017 Time 17:02:05.897
+ Heading: 268.20, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.4000
+ Date: 21/03/2017 Time 17:02:05.997
+ Heading: 267.50, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.0000
+ Date: 21/03/2017 Time 17:02:06.097
+ Heading: 266.80, Velocity: 8.334
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.3000
+ Date: 21/03/2017 Time 17:02:06.197
+ Heading: 266.80, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 176.0000
+ Date: 21/03/2017 Time 17:02:06.297
+ Heading: 267.00, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 175.7000
+ Date: 21/03/2017 Time 17:02:06.397
+ Heading: 265.80, Velocity: 8.334
+Position Change event: lat: 48.7125, long: 2.2177, alt: 175.4000
+ Date: 21/03/2017 Time 17:02:06.497
+ Heading: 265.50, Velocity: 8.519
+Position Change event: lat: 48.7125, long: 2.2177, alt: 174.9000
+ Date: 21/03/2017 Time 17:02:06.597
+ Heading: 265.60, Velocity: 8.334
+Position Change event: lat: 48.7125, long: 2.2177, alt: 174.4000
+ Date: 21/03/2017 Time 17:02:06.697
+ Heading: 265.80, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 174.1000
+ Date: 21/03/2017 Time 17:02:06.797
+ Heading: 265.80, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 173.8000
+ Date: 21/03/2017 Time 17:02:06.897
+ Heading: 265.00, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2177, alt: 172.7000
+ Date: 21/03/2017 Time 17:02:06.997
+ Heading: 264.30, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2177, alt: 171.9000
+ Date: 21/03/2017 Time 17:02:07.097
+ Heading: 263.80, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 171.4000
+ Date: 21/03/2017 Time 17:02:07.197
+ Heading: 263.40, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 170.9000
+ Date: 21/03/2017 Time 17:02:07.297
+ Heading: 262.30, Velocity: 8.149
+Position Change event: lat: 48.7125, long: 2.2177, alt: 170.6000
+ Date: 21/03/2017 Time 17:02:07.397
+ Heading: 260.40, Velocity: 7.964
+Position Change event: lat: 48.7125, long: 2.2177, alt: 170.0000
+ Date: 21/03/2017 Time 17:02:07.497
+ Heading: 259.70, Velocity: 7.778
+Position Change event: lat: 48.7125, long: 2.2177, alt: 169.4000
+ Date: 21/03/2017 Time 17:02:07.597
+ Heading: 259.00, Velocity: 7.778
+Position Change event: lat: 48.7125, long: 2.2177, alt: 168.6000
+ Date: 21/03/2017 Time 17:02:07.697
+ Heading: 258.50, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 168.2000
+ Date: 21/03/2017 Time 17:02:07.797
+ Heading: 257.50, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 168.1000
+ Date: 21/03/2017 Time 17:02:07.897
+ Heading: 255.50, Velocity: 7.593
+Position Change event: lat: 48.7125, long: 2.2177, alt: 166.3000
+ Date: 21/03/2017 Time 17:02:07.997
+ Heading: 255.10, Velocity: 7.408
+Position Change event: lat: 48.7125, long: 2.2177, alt: 164.9000
+ Date: 21/03/2017 Time 17:02:08.097
+ Heading: 255.30, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2177, alt: 163.6000
+ Date: 21/03/2017 Time 17:02:08.197
+ Heading: 255.00, Velocity: 6.852
+Position Change event: lat: 48.7125, long: 2.2177, alt: 162.4000
+ Date: 21/03/2017 Time 17:02:08.297
+ Heading: 255.70, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2178, alt: 161.6000
+ Date: 21/03/2017 Time 17:02:08.397
+ Heading: 255.90, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2178, alt: 161.0000
+ Date: 21/03/2017 Time 17:02:08.497
+ Heading: 255.90, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2178, alt: 160.2000
+ Date: 21/03/2017 Time 17:02:08.597
+ Heading: 257.30, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2178, alt: 159.6000
+ Date: 21/03/2017 Time 17:02:08.697
+ Heading: 258.20, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.9000
+ Date: 21/03/2017 Time 17:02:08.797
+ Heading: 261.00, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.6000
+ Date: 21/03/2017 Time 17:02:08.897
+ Heading: 260.90, Velocity: 5.000
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.5000
+ Date: 21/03/2017 Time 17:02:08.997
+ Heading: 257.90, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.6000
+ Date: 21/03/2017 Time 17:02:09.097
+ Heading: 256.30, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.8000
+ Date: 21/03/2017 Time 17:02:09.197
+ Heading: 257.30, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2178, alt: 158.7000
+ Date: 21/03/2017 Time 17:02:09.297
+ Heading: 257.40, Velocity: 5.371
+Position Change event: lat: 48.7125, long: 2.2177, alt: 158.9000
+ Date: 21/03/2017 Time 17:02:09.397
+ Heading: 257.20, Velocity: 5.556
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.0000
+ Date: 21/03/2017 Time 17:02:09.497
+ Heading: 253.70, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.1000
+ Date: 21/03/2017 Time 17:02:09.597
+ Heading: 253.30, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.2000
+ Date: 21/03/2017 Time 17:02:09.697
+ Heading: 252.60, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.1000
+ Date: 21/03/2017 Time 17:02:09.797
+ Heading: 253.00, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.2000
+ Date: 21/03/2017 Time 17:02:09.897
+ Heading: 252.40, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.2000
+ Date: 21/03/2017 Time 17:02:09.997
+ Heading: 251.00, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.2000
+ Date: 21/03/2017 Time 17:02:10.097
+ Heading: 249.90, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.2000
+ Date: 21/03/2017 Time 17:02:10.197
+ Heading: 248.10, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.3000
+ Date: 21/03/2017 Time 17:02:10.297
+ Heading: 248.20, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.5000
+ Date: 21/03/2017 Time 17:02:10.397
+ Heading: 247.10, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.5000
+ Date: 21/03/2017 Time 17:02:10.497
+ Heading: 244.70, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:10.597
+ Heading: 242.90, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.8000
+ Date: 21/03/2017 Time 17:02:10.697
+ Heading: 241.90, Velocity: 6.482
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.9000
+ Date: 21/03/2017 Time 17:02:10.797
+ Heading: 242.00, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:10.897
+ Heading: 241.40, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.8000
+ Date: 21/03/2017 Time 17:02:10.997
+ Heading: 239.40, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:11.097
+ Heading: 239.10, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.6000
+ Date: 21/03/2017 Time 17:02:11.197
+ Heading: 239.30, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:11.297
+ Heading: 238.30, Velocity: 6.297
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.6000
+ Date: 21/03/2017 Time 17:02:11.397
+ Heading: 237.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:11.497
+ Heading: 236.00, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:11.597
+ Heading: 234.00, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.7000
+ Date: 21/03/2017 Time 17:02:11.697
+ Heading: 232.70, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.8000
+ Date: 21/03/2017 Time 17:02:11.797
+ Heading: 230.70, Velocity: 5.741
+Position Change event: lat: 48.7125, long: 2.2177, alt: 159.8000
+ Date: 21/03/2017 Time 17:02:11.897
+ Heading: 229.60, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 160.1000
+ Date: 21/03/2017 Time 17:02:11.997
+ Heading: 229.30, Velocity: 5.926
+Position Change event: lat: 48.7125, long: 2.2177, alt: 160.5000
+ Date: 21/03/2017 Time 17:02:12.097
+ Heading: 226.70, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 160.8000
+ Date: 21/03/2017 Time 17:02:12.197
+ Heading: 225.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 161.0000
+ Date: 21/03/2017 Time 17:02:12.297
+ Heading: 224.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 161.0000
+ Date: 21/03/2017 Time 17:02:12.397
+ Heading: 223.00, Velocity: 6.112
+Position Change event: lat: 48.7125, long: 2.2177, alt: 161.1000
+ Date: 21/03/2017 Time 17:02:12.497
+ Heading: 222.20, Velocity: 6.112
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.1000
+ Date: 21/03/2017 Time 17:02:12.597
+ Heading: 221.00, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.2000
+ Date: 21/03/2017 Time 17:02:12.697
+ Heading: 220.90, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.1000
+ Date: 21/03/2017 Time 17:02:12.797
+ Heading: 221.60, Velocity: 6.112
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.1000
+ Date: 21/03/2017 Time 17:02:12.897
+ Heading: 221.90, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.1000
+ Date: 21/03/2017 Time 17:02:12.997
+ Heading: 221.80, Velocity: 6.112
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.4000
+ Date: 21/03/2017 Time 17:02:13.097
+ Heading: 222.10, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.4000
+ Date: 21/03/2017 Time 17:02:13.197
+ Heading: 222.30, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.5000
+ Date: 21/03/2017 Time 17:02:13.297
+ Heading: 221.50, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.4000
+ Date: 21/03/2017 Time 17:02:13.397
+ Heading: 220.10, Velocity: 6.112
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.4000
+ Date: 21/03/2017 Time 17:02:13.497
+ Heading: 220.30, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:13.597
+ Heading: 219.10, Velocity: 6.482
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:13.697
+ Heading: 217.80, Velocity: 6.482
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.0000
+ Date: 21/03/2017 Time 17:02:13.797
+ Heading: 216.60, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.1000
+ Date: 21/03/2017 Time 17:02:13.897
+ Heading: 215.30, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.3000
+ Date: 21/03/2017 Time 17:02:13.997
+ Heading: 213.50, Velocity: 7.038
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.5000
+ Date: 21/03/2017 Time 17:02:14.097
+ Heading: 213.20, Velocity: 7.223
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.8000
+ Date: 21/03/2017 Time 17:02:14.197
+ Heading: 212.70, Velocity: 7.593
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.1000
+ Date: 21/03/2017 Time 17:02:14.297
+ Heading: 213.00, Velocity: 7.778
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.3000
+ Date: 21/03/2017 Time 17:02:14.397
+ Heading: 213.20, Velocity: 7.778
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.7000
+ Date: 21/03/2017 Time 17:02:14.497
+ Heading: 212.80, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.9000
+ Date: 21/03/2017 Time 17:02:14.597
+ Heading: 212.50, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.3000
+ Date: 21/03/2017 Time 17:02:14.697
+ Heading: 212.40, Velocity: 7.964
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.3000
+ Date: 21/03/2017 Time 17:02:14.797
+ Heading: 212.40, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.4000
+ Date: 21/03/2017 Time 17:02:14.897
+ Heading: 212.70, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.2000
+ Date: 21/03/2017 Time 17:02:14.997
+ Heading: 212.50, Velocity: 8.334
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.0000
+ Date: 21/03/2017 Time 17:02:15.097
+ Heading: 211.30, Velocity: 5.371
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.1000
+ Date: 21/03/2017 Time 17:02:15.197
+ Heading: 211.20, Velocity: 5.556
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.9000
+ Date: 21/03/2017 Time 17:02:15.297
+ Heading: 211.20, Velocity: 5.556
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.8000
+ Date: 21/03/2017 Time 17:02:15.397
+ Heading: 210.20, Velocity: 5.741
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.5000
+ Date: 21/03/2017 Time 17:02:15.497
+ Heading: 211.80, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.8000
+ Date: 21/03/2017 Time 17:02:15.597
+ Heading: 211.10, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.4000
+ Date: 21/03/2017 Time 17:02:15.697
+ Heading: 211.20, Velocity: 6.297
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.2000
+ Date: 21/03/2017 Time 17:02:15.797
+ Heading: 211.50, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.5000
+ Date: 21/03/2017 Time 17:02:15.897
+ Heading: 212.30, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.5000
+ Date: 21/03/2017 Time 17:02:15.997
+ Heading: 212.20, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.3000
+ Date: 21/03/2017 Time 17:02:16.097
+ Heading: 211.80, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.1000
+ Date: 21/03/2017 Time 17:02:16.197
+ Heading: 211.50, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.0000
+ Date: 21/03/2017 Time 17:02:16.297
+ Heading: 211.90, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:16.397
+ Heading: 210.90, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.9000
+ Date: 21/03/2017 Time 17:02:16.497
+ Heading: 210.50, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:16.597
+ Heading: 209.10, Velocity: 6.667
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:16.697
+ Heading: 208.00, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.7000
+ Date: 21/03/2017 Time 17:02:16.797
+ Heading: 207.20, Velocity: 6.852
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.6000
+ Date: 21/03/2017 Time 17:02:16.897
+ Heading: 206.50, Velocity: 7.038
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.9000
+ Date: 21/03/2017 Time 17:02:16.997
+ Heading: 205.90, Velocity: 7.223
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.1000
+ Date: 21/03/2017 Time 17:02:17.097
+ Heading: 202.30, Velocity: 4.630
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.9000
+ Date: 21/03/2017 Time 17:02:17.197
+ Heading: 200.00, Velocity: 4.630
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.0000
+ Date: 21/03/2017 Time 17:02:17.297
+ Heading: 199.10, Velocity: 4.815
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.1000
+ Date: 21/03/2017 Time 17:02:17.397
+ Heading: 199.50, Velocity: 5.000
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.0000
+ Date: 21/03/2017 Time 17:02:17.497
+ Heading: 199.70, Velocity: 5.000
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.8000
+ Date: 21/03/2017 Time 17:02:17.597
+ Heading: 199.30, Velocity: 5.186
+Position Change event: lat: 48.7124, long: 2.2177, alt: 161.9000
+ Date: 21/03/2017 Time 17:02:17.697
+ Heading: 198.60, Velocity: 5.371
+Position Change event: lat: 48.7124, long: 2.2177, alt: 162.6000
+ Date: 21/03/2017 Time 17:02:17.797
+ Heading: 200.50, Velocity: 5.556
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.2000
+ Date: 21/03/2017 Time 17:02:17.897
+ Heading: 199.90, Velocity: 5.741
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.5000
+ Date: 21/03/2017 Time 17:02:17.997
+ Heading: 198.50, Velocity: 5.556
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.7000
+ Date: 21/03/2017 Time 17:02:18.097
+ Heading: 199.10, Velocity: 5.741
+Position Change event: lat: 48.7124, long: 2.2177, alt: 163.9000
+ Date: 21/03/2017 Time 17:02:18.197
+ Heading: 199.50, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 164.0000
+ Date: 21/03/2017 Time 17:02:18.297
+ Heading: 198.00, Velocity: 5.741
+Position Change event: lat: 48.7124, long: 2.2177, alt: 164.1000
+ Date: 21/03/2017 Time 17:02:18.397
+ Heading: 197.50, Velocity: 5.741
+Position Change event: lat: 48.7124, long: 2.2177, alt: 164.3000
+ Date: 21/03/2017 Time 17:02:18.497
+ Heading: 197.20, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 164.8000
+ Date: 21/03/2017 Time 17:02:18.597
+ Heading: 197.30, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 165.1000
+ Date: 21/03/2017 Time 17:02:18.697
+ Heading: 196.90, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 165.4000
+ Date: 21/03/2017 Time 17:02:18.797
+ Heading: 196.10, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 165.7000
+ Date: 21/03/2017 Time 17:02:18.897
+ Heading: 196.50, Velocity: 5.926
+Position Change event: lat: 48.7124, long: 2.2177, alt: 166.1000
+ Date: 21/03/2017 Time 17:02:18.997
+ Heading: 197.00, Velocity: 6.112
+Position Change event: lat: 48.7124, long: 2.2177, alt: 166.2000
+ Date: 21/03/2017 Time 17:02:19.097
+ Heading: 194.00, Velocity: 4.074
+Position Change event: lat: 48.7124, long: 2.2177, alt: 166.8000
+ Date: 21/03/2017 Time 17:02:19.197
+ Heading: 192.10, Velocity: 4.260
+Position Change event: lat: 48.7124, long: 2.2177, alt: 167.3000
+ Date: 21/03/2017 Time 17:02:19.297
+ Heading: 192.90, Velocity: 4.260
+Position Change event: lat: 48.7124, long: 2.2177, alt: 167.8000
+ Date: 21/03/2017 Time 17:02:19.397
+ Heading: 191.30, Velocity: 4.630
+Position Change event: lat: 48.7124, long: 2.2177, alt: 168.4000
+ Date: 21/03/2017 Time 17:02:19.497
+ Heading: 193.80, Velocity: 4.630
+Position Change event: lat: 48.7124, long: 2.2177, alt: 168.5000
+ Date: 21/03/2017 Time 17:02:19.597
+ Heading: 194.60, Velocity: 4.815
+Position Change event: lat: 48.7123, long: 2.2177, alt: 168.8000
+ Date: 21/03/2017 Time 17:02:19.697
+ Heading: 194.60, Velocity: 5.000
+Position Change event: lat: 48.7123, long: 2.2177, alt: 169.5000
+ Date: 21/03/2017 Time 17:02:19.797
+ Heading: 194.80, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 169.8000
+ Date: 21/03/2017 Time 17:02:19.897
+ Heading: 194.00, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 170.1000
+ Date: 21/03/2017 Time 17:02:19.997
+ Heading: 193.40, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 170.6000
+ Date: 21/03/2017 Time 17:02:20.097
+ Heading: 193.30, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 170.9000
+ Date: 21/03/2017 Time 17:02:20.197
+ Heading: 193.30, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 171.3000
+ Date: 21/03/2017 Time 17:02:20.297
+ Heading: 192.40, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 171.6000
+ Date: 21/03/2017 Time 17:02:20.397
+ Heading: 192.20, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 171.9000
+ Date: 21/03/2017 Time 17:02:20.497
+ Heading: 192.50, Velocity: 5.371
+Position Change event: lat: 48.7123, long: 2.2177, alt: 172.2000
+ Date: 21/03/2017 Time 17:02:20.597
+ Heading: 193.00, Velocity: 5.371
+Position Change event: lat: 48.7123, long: 2.2177, alt: 172.9000
+ Date: 21/03/2017 Time 17:02:20.697
+ Heading: 193.70, Velocity: 5.371
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.3000
+ Date: 21/03/2017 Time 17:02:20.797
+ Heading: 192.20, Velocity: 5.371
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.5000
+ Date: 21/03/2017 Time 17:02:20.897
+ Heading: 195.70, Velocity: 5.556
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.2000
+ Date: 21/03/2017 Time 17:02:20.997
+ Heading: 197.60, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.3000
+ Date: 21/03/2017 Time 17:02:21.097
+ Heading: 198.70, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.2000
+ Date: 21/03/2017 Time 17:02:21.197
+ Heading: 198.80, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.1000
+ Date: 21/03/2017 Time 17:02:21.297
+ Heading: 199.50, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.4000
+ Date: 21/03/2017 Time 17:02:21.397
+ Heading: 200.20, Velocity: 5.926
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.7000
+ Date: 21/03/2017 Time 17:02:21.497
+ Heading: 199.90, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.6000
+ Date: 21/03/2017 Time 17:02:21.598
+ Heading: 199.00, Velocity: 5.556
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.2000
+ Date: 21/03/2017 Time 17:02:21.698
+ Heading: 200.70, Velocity: 5.926
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.0000
+ Date: 21/03/2017 Time 17:02:21.797
+ Heading: 199.30, Velocity: 5.741
+Position Change event: lat: 48.7123, long: 2.2177, alt: 173.9000
+ Date: 21/03/2017 Time 17:02:21.897
+ Heading: 200.90, Velocity: 5.926
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.2000
+ Date: 21/03/2017 Time 17:02:21.997
+ Heading: 202.30, Velocity: 6.297
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.5000
+ Date: 21/03/2017 Time 17:02:22.097
+ Heading: 199.80, Velocity: 3.889
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.6000
+ Date: 21/03/2017 Time 17:02:22.297
+ Heading: 198.00, Velocity: 4.260
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.5000
+ Date: 21/03/2017 Time 17:02:22.397
+ Heading: 197.70, Velocity: 4.260
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.5000
+ Date: 21/03/2017 Time 17:02:22.498
+ Heading: 197.50, Velocity: 4.445
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.6000
+ Date: 21/03/2017 Time 17:02:22.598
+ Heading: 197.30, Velocity: 4.630
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.5000
+ Date: 21/03/2017 Time 17:02:22.698
+ Heading: 197.10, Velocity: 5.000
+Position Change event: lat: 48.7123, long: 2.2177, alt: 174.8000
+ Date: 21/03/2017 Time 17:02:22.798
+ Heading: 196.30, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 175.1000
+ Date: 21/03/2017 Time 17:02:22.897
+ Heading: 193.10, Velocity: 5.186
+Position Change event: lat: 48.7123, long: 2.2177, alt: 175.1000
+ Date: 21/03/2017 Time 17:02:22.997
+ Heading: 191.50, Velocity: 5.000
+Position Change event: lat: 48.7123, long: 2.2177, alt: 175.3000
+ Date: 21/03/2017 Time 17:02:23.097
+ Heading: 192.40, Velocity: 5.556
+Position Change event: lat: 48.7123, long: 2.2177, alt: 175.5000
+ Date: 21/03/2017 Time 17:02:23.197
+ Heading: 192.10, Velocity: 5.926
+Position Change event: lat: 48.7123, long: 2.2177, alt: 175.9000
+ Date: 21/03/2017 Time 17:02:23.298
+ Heading: 191.90, Velocity: 6.112
+Position Change event: lat: 48.7123, long: 2.2176, alt: 176.2000
+ Date: 21/03/2017 Time 17:02:23.398
+ Heading: 191.70, Velocity: 6.482
+Position Change event: lat: 48.7123, long: 2.2176, alt: 176.8000
+ Date: 21/03/2017 Time 17:02:23.498
+ Heading: 193.30, Velocity: 6.667
+Position Change event: lat: 48.7123, long: 2.2176, alt: 177.3000
+ Date: 21/03/2017 Time 17:02:23.598
+ Heading: 192.70, Velocity: 6.667
+Position Change event: lat: 48.7123, long: 2.2176, alt: 178.0000
+ Date: 21/03/2017 Time 17:02:23.698
+ Heading: 193.80, Velocity: 7.038
+Position Change event: lat: 48.7123, long: 2.2176, alt: 178.5000
+ Date: 21/03/2017 Time 17:02:23.798
+ Heading: 192.70, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 179.1000
+ Date: 21/03/2017 Time 17:02:23.897
+ Heading: 192.80, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 179.6000
+ Date: 21/03/2017 Time 17:02:23.997
+ Heading: 193.70, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 180.1000
+ Date: 21/03/2017 Time 17:02:24.097
+ Heading: 194.80, Velocity: 7.038
+Position Change event: lat: 48.7123, long: 2.2176, alt: 180.5000
+ Date: 21/03/2017 Time 17:02:24.198
+ Heading: 196.80, Velocity: 7.038
+Position Change event: lat: 48.7123, long: 2.2176, alt: 180.7000
+ Date: 21/03/2017 Time 17:02:24.298
+ Heading: 197.00, Velocity: 7.038
+Position Change event: lat: 48.7123, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:24.398
+ Heading: 197.40, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 181.4000
+ Date: 21/03/2017 Time 17:02:24.498
+ Heading: 198.00, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 181.8000
+ Date: 21/03/2017 Time 17:02:24.598
+ Heading: 199.60, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 182.4000
+ Date: 21/03/2017 Time 17:02:24.698
+ Heading: 198.80, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.1000
+ Date: 21/03/2017 Time 17:02:24.798
+ Heading: 197.50, Velocity: 6.667
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.5000
+ Date: 21/03/2017 Time 17:02:24.898
+ Heading: 196.10, Velocity: 6.297
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.4000
+ Date: 21/03/2017 Time 17:02:24.998
+ Heading: 195.80, Velocity: 6.112
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.3000
+ Date: 21/03/2017 Time 17:02:25.098
+ Heading: 197.50, Velocity: 6.482
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.6000
+ Date: 21/03/2017 Time 17:02:25.198
+ Heading: 197.20, Velocity: 6.852
+Position Change event: lat: 48.7123, long: 2.2176, alt: 183.8000
+ Date: 21/03/2017 Time 17:02:25.298
+ Heading: 197.30, Velocity: 6.667
+Position Change event: lat: 48.7123, long: 2.2176, alt: 184.0000
+ Date: 21/03/2017 Time 17:02:25.398
+ Heading: 197.10, Velocity: 6.482
+Position Change event: lat: 48.7123, long: 2.2176, alt: 184.5000
+ Date: 21/03/2017 Time 17:02:25.498
+ Heading: 196.80, Velocity: 6.482
+Position Change event: lat: 48.7123, long: 2.2176, alt: 184.7000
+ Date: 21/03/2017 Time 17:02:25.598
+ Heading: 195.60, Velocity: 6.297
+Position Change event: lat: 48.7123, long: 2.2176, alt: 185.1000
+ Date: 21/03/2017 Time 17:02:25.698
+ Heading: 196.20, Velocity: 6.667
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.0000
+ Date: 21/03/2017 Time 17:02:25.798
+ Heading: 194.80, Velocity: 6.482
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.2000
+ Date: 21/03/2017 Time 17:02:25.898
+ Heading: 196.30, Velocity: 6.852
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.6000
+ Date: 21/03/2017 Time 17:02:25.998
+ Heading: 196.90, Velocity: 7.223
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.0000
+ Date: 21/03/2017 Time 17:02:26.098
+ Heading: 196.20, Velocity: 4.445
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.4000
+ Date: 21/03/2017 Time 17:02:26.198
+ Heading: 194.60, Velocity: 4.445
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.7000
+ Date: 21/03/2017 Time 17:02:26.298
+ Heading: 193.90, Velocity: 4.445
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.8000
+ Date: 21/03/2017 Time 17:02:26.398
+ Heading: 193.40, Velocity: 4.445
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.7000
+ Date: 21/03/2017 Time 17:02:26.498
+ Heading: 193.50, Velocity: 4.445
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.5000
+ Date: 21/03/2017 Time 17:02:26.698
+ Heading: 194.80, Velocity: 4.630
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.4000
+ Date: 21/03/2017 Time 17:02:26.798
+ Heading: 194.70, Velocity: 5.000
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.3000
+ Date: 21/03/2017 Time 17:02:26.898
+ Heading: 193.70, Velocity: 5.000
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.3000
+ Date: 21/03/2017 Time 17:02:26.998
+ Heading: 194.60, Velocity: 5.186
+Position Change event: lat: 48.7122, long: 2.2176, alt: 186.1000
+ Date: 21/03/2017 Time 17:02:27.098
+ Heading: 195.20, Velocity: 5.556
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.9000
+ Date: 21/03/2017 Time 17:02:27.198
+ Heading: 192.40, Velocity: 5.556
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.7000
+ Date: 21/03/2017 Time 17:02:27.298
+ Heading: 191.70, Velocity: 5.926
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.5000
+ Date: 21/03/2017 Time 17:02:27.398
+ Heading: 189.60, Velocity: 6.112
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.5000
+ Date: 21/03/2017 Time 17:02:27.498
+ Heading: 188.50, Velocity: 6.112
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.5000
+ Date: 21/03/2017 Time 17:02:27.598
+ Heading: 187.80, Velocity: 6.297
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.6000
+ Date: 21/03/2017 Time 17:02:27.698
+ Heading: 186.90, Velocity: 6.482
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.4000
+ Date: 21/03/2017 Time 17:02:27.798
+ Heading: 188.20, Velocity: 6.667
+Position Change event: lat: 48.7122, long: 2.2176, alt: 185.4000
+ Date: 21/03/2017 Time 17:02:27.898
+ Heading: 187.30, Velocity: 6.667
+Position Change event: lat: 48.7122, long: 2.2176, alt: 184.6000
+ Date: 21/03/2017 Time 17:02:27.998
+ Heading: 186.70, Velocity: 7.038
+Position Change event: lat: 48.7122, long: 2.2176, alt: 183.7000
+ Date: 21/03/2017 Time 17:02:28.098
+ Heading: 185.40, Velocity: 7.223
+Position Change event: lat: 48.7122, long: 2.2176, alt: 183.2000
+ Date: 21/03/2017 Time 17:02:28.198
+ Heading: 184.40, Velocity: 7.223
+Position Change event: lat: 48.7122, long: 2.2176, alt: 183.4000
+ Date: 21/03/2017 Time 17:02:28.298
+ Heading: 184.50, Velocity: 7.223
+Position Change event: lat: 48.7122, long: 2.2176, alt: 182.7000
+ Date: 21/03/2017 Time 17:02:28.398
+ Heading: 185.60, Velocity: 7.408
+Position Change event: lat: 48.7122, long: 2.2176, alt: 182.4000
+ Date: 21/03/2017 Time 17:02:28.498
+ Heading: 186.00, Velocity: 7.408
+Position Change event: lat: 48.7122, long: 2.2176, alt: 182.1000
+ Date: 21/03/2017 Time 17:02:28.598
+ Heading: 185.60, Velocity: 7.593
+Position Change event: lat: 48.7122, long: 2.2176, alt: 181.8000
+ Date: 21/03/2017 Time 17:02:28.698
+ Heading: 185.10, Velocity: 7.593
+Position Change event: lat: 48.7122, long: 2.2176, alt: 181.7000
+ Date: 21/03/2017 Time 17:02:28.798
+ Heading: 183.90, Velocity: 7.778
+Position Change event: lat: 48.7122, long: 2.2176, alt: 181.4000
+ Date: 21/03/2017 Time 17:02:28.898
+ Heading: 184.10, Velocity: 7.778
+Position Change event: lat: 48.7122, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:28.998
+ Heading: 184.30, Velocity: 7.964
+Position Change event: lat: 48.7122, long: 2.2176, alt: 180.9000
+ Date: 21/03/2017 Time 17:02:29.098
+ Heading: 184.00, Velocity: 7.778
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.8000
+ Date: 21/03/2017 Time 17:02:29.198
+ Heading: 183.70, Velocity: 7.778
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.6000
+ Date: 21/03/2017 Time 17:02:29.298
+ Heading: 185.10, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.6000
+ Date: 21/03/2017 Time 17:02:29.398
+ Heading: 184.30, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.7000
+ Date: 21/03/2017 Time 17:02:29.498
+ Heading: 183.50, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.5000
+ Date: 21/03/2017 Time 17:02:29.598
+ Heading: 182.60, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.5000
+ Date: 21/03/2017 Time 17:02:29.698
+ Heading: 184.00, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.6000
+ Date: 21/03/2017 Time 17:02:29.798
+ Heading: 183.30, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.7000
+ Date: 21/03/2017 Time 17:02:29.898
+ Heading: 184.60, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.8000
+ Date: 21/03/2017 Time 17:02:29.998
+ Heading: 185.00, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.7000
+ Date: 21/03/2017 Time 17:02:30.098
+ Heading: 185.50, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.8000
+ Date: 21/03/2017 Time 17:02:30.198
+ Heading: 186.20, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:30.298
+ Heading: 186.90, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.0000
+ Date: 21/03/2017 Time 17:02:30.398
+ Heading: 186.80, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.6000
+ Date: 21/03/2017 Time 17:02:30.498
+ Heading: 186.80, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.3000
+ Date: 21/03/2017 Time 17:02:30.598
+ Heading: 185.50, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.2000
+ Date: 21/03/2017 Time 17:02:30.698
+ Heading: 185.60, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.2000
+ Date: 21/03/2017 Time 17:02:30.798
+ Heading: 185.10, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.4000
+ Date: 21/03/2017 Time 17:02:30.898
+ Heading: 183.70, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.8000
+ Date: 21/03/2017 Time 17:02:30.998
+ Heading: 182.60, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.8000
+ Date: 21/03/2017 Time 17:02:31.098
+ Heading: 182.50, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2176, alt: 180.7000
+ Date: 21/03/2017 Time 17:02:31.198
+ Heading: 181.50, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.0000
+ Date: 21/03/2017 Time 17:02:31.298
+ Heading: 181.00, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:31.398
+ Heading: 182.00, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:31.498
+ Heading: 182.30, Velocity: 8.890
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.3000
+ Date: 21/03/2017 Time 17:02:31.598
+ Heading: 185.40, Velocity: 9.260
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.6000
+ Date: 21/03/2017 Time 17:02:31.698
+ Heading: 185.10, Velocity: 9.260
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.6000
+ Date: 21/03/2017 Time 17:02:31.798
+ Heading: 185.00, Velocity: 9.260
+Position Change event: lat: 48.7121, long: 2.2176, alt: 181.8000
+ Date: 21/03/2017 Time 17:02:31.898
+ Heading: 185.00, Velocity: 9.445
+Position Change event: lat: 48.7121, long: 2.2176, alt: 182.3000
+ Date: 21/03/2017 Time 17:02:31.998
+ Heading: 185.00, Velocity: 9.630
+Position Change event: lat: 48.7121, long: 2.2176, alt: 183.0000
+ Date: 21/03/2017 Time 17:02:32.098
+ Heading: 185.80, Velocity: 9.260
+Position Change event: lat: 48.7121, long: 2.2176, alt: 183.7000
+ Date: 21/03/2017 Time 17:02:32.198
+ Heading: 188.20, Velocity: 9.260
+Position Change event: lat: 48.7121, long: 2.2176, alt: 184.5000
+ Date: 21/03/2017 Time 17:02:32.298
+ Heading: 189.60, Velocity: 9.075
+Position Change event: lat: 48.7121, long: 2.2176, alt: 185.1000
+ Date: 21/03/2017 Time 17:02:32.398
+ Heading: 190.60, Velocity: 8.890
+Position Change event: lat: 48.7121, long: 2.2176, alt: 186.1000
+ Date: 21/03/2017 Time 17:02:32.498
+ Heading: 191.30, Velocity: 8.890
+Position Change event: lat: 48.7121, long: 2.2176, alt: 186.7000
+ Date: 21/03/2017 Time 17:02:32.598
+ Heading: 192.00, Velocity: 8.704
+Position Change event: lat: 48.7121, long: 2.2176, alt: 187.0000
+ Date: 21/03/2017 Time 17:02:32.698
+ Heading: 193.30, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2176, alt: 187.2000
+ Date: 21/03/2017 Time 17:02:32.798
+ Heading: 194.30, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2176, alt: 188.0000
+ Date: 21/03/2017 Time 17:02:32.898
+ Heading: 193.70, Velocity: 8.519
+Position Change event: lat: 48.7121, long: 2.2175, alt: 188.6000
+ Date: 21/03/2017 Time 17:02:32.998
+ Heading: 193.70, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 189.3000
+ Date: 21/03/2017 Time 17:02:33.098
+ Heading: 195.00, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 189.3000
+ Date: 21/03/2017 Time 17:02:33.198
+ Heading: 195.70, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 190.0000
+ Date: 21/03/2017 Time 17:02:33.298
+ Heading: 195.20, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 190.8000
+ Date: 21/03/2017 Time 17:02:33.398
+ Heading: 196.70, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 191.3000
+ Date: 21/03/2017 Time 17:02:33.498
+ Heading: 197.10, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 191.9000
+ Date: 21/03/2017 Time 17:02:33.598
+ Heading: 197.90, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 192.3000
+ Date: 21/03/2017 Time 17:02:33.698
+ Heading: 199.30, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 192.9000
+ Date: 21/03/2017 Time 17:02:33.798
+ Heading: 200.30, Velocity: 8.334
+Position Change event: lat: 48.7121, long: 2.2175, alt: 193.4000
+ Date: 21/03/2017 Time 17:02:33.898
+ Heading: 201.00, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 194.0000
+ Date: 21/03/2017 Time 17:02:33.998
+ Heading: 201.10, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 194.6000
+ Date: 21/03/2017 Time 17:02:34.098
+ Heading: 202.10, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2175, alt: 195.0000
+ Date: 21/03/2017 Time 17:02:34.198
+ Heading: 204.20, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 195.5000
+ Date: 21/03/2017 Time 17:02:34.298
+ Heading: 204.60, Velocity: 8.149
+Position Change event: lat: 48.7121, long: 2.2175, alt: 196.2000
+ Date: 21/03/2017 Time 17:02:34.398
+ Heading: 204.90, Velocity: 7.964
+Position Change event: lat: 48.7121, long: 2.2175, alt: 196.7000
+ Date: 21/03/2017 Time 17:02:34.498
+ Heading: 203.50, Velocity: 7.778
+Position Change event: lat: 48.7121, long: 2.2175, alt: 197.5000
+ Date: 21/03/2017 Time 17:02:34.598
+ Heading: 203.40, Velocity: 7.593
+Position Change event: lat: 48.7121, long: 2.2175, alt: 198.3000
+ Date: 21/03/2017 Time 17:02:34.698
+ Heading: 203.50, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2175, alt: 198.9000
+ Date: 21/03/2017 Time 17:02:34.798
+ Heading: 204.30, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2175, alt: 199.7000
+ Date: 21/03/2017 Time 17:02:34.898
+ Heading: 205.10, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2175, alt: 200.1000
+ Date: 21/03/2017 Time 17:02:34.998
+ Heading: 206.30, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2175, alt: 200.2000
+ Date: 21/03/2017 Time 17:02:35.098
+ Heading: 206.50, Velocity: 7.408
+Position Change event: lat: 48.7121, long: 2.2175, alt: 200.4000
+ Date: 21/03/2017 Time 17:02:35.198
+ Heading: 207.00, Velocity: 7.223
+Position Change event: lat: 48.7121, long: 2.2175, alt: 200.5000
+ Date: 21/03/2017 Time 17:02:35.298
+ Heading: 206.90, Velocity: 7.038
+Position Change event: lat: 48.7121, long: 2.2175, alt: 200.9000
+ Date: 21/03/2017 Time 17:02:35.398
+ Heading: 207.70, Velocity: 7.038
+Position Change event: lat: 48.7121, long: 2.2175, alt: 201.2000
+ Date: 21/03/2017 Time 17:02:35.498
+ Heading: 207.30, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2175, alt: 201.3000
+ Date: 21/03/2017 Time 17:02:35.598
+ Heading: 207.30, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2174, alt: 201.5000
+ Date: 21/03/2017 Time 17:02:35.698
+ Heading: 208.00, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2174, alt: 201.7000
+ Date: 21/03/2017 Time 17:02:35.798
+ Heading: 208.00, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.0000
+ Date: 21/03/2017 Time 17:02:35.898
+ Heading: 208.30, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.4000
+ Date: 21/03/2017 Time 17:02:35.998
+ Heading: 208.20, Velocity: 6.852
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.6000
+ Date: 21/03/2017 Time 17:02:36.098
+ Heading: 205.60, Velocity: 4.260
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.7000
+ Date: 21/03/2017 Time 17:02:36.198
+ Heading: 203.70, Velocity: 4.260
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.6000
+ Date: 21/03/2017 Time 17:02:36.298
+ Heading: 202.10, Velocity: 4.445
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.6000
+ Date: 21/03/2017 Time 17:02:36.398
+ Heading: 200.80, Velocity: 4.445
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.9000
+ Date: 21/03/2017 Time 17:02:36.498
+ Heading: 200.00, Velocity: 4.445
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.0000
+ Date: 21/03/2017 Time 17:02:36.598
+ Heading: 199.30, Velocity: 4.445
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.1000
+ Date: 21/03/2017 Time 17:02:36.698
+ Heading: 201.20, Velocity: 4.630
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.0000
+ Date: 21/03/2017 Time 17:02:36.798
+ Heading: 200.60, Velocity: 4.630
+Position Change event: lat: 48.7121, long: 2.2174, alt: 202.9000
+ Date: 21/03/2017 Time 17:02:36.898
+ Heading: 201.30, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.0000
+ Date: 21/03/2017 Time 17:02:36.998
+ Heading: 202.00, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.3000
+ Date: 21/03/2017 Time 17:02:37.098
+ Heading: 201.40, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.6000
+ Date: 21/03/2017 Time 17:02:37.198
+ Heading: 201.00, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 203.8000
+ Date: 21/03/2017 Time 17:02:37.298
+ Heading: 200.80, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.0000
+ Date: 21/03/2017 Time 17:02:37.398
+ Heading: 200.40, Velocity: 4.630
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.0000
+ Date: 21/03/2017 Time 17:02:37.498
+ Heading: 200.20, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.2000
+ Date: 21/03/2017 Time 17:02:37.598
+ Heading: 201.90, Velocity: 5.000
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.3000
+ Date: 21/03/2017 Time 17:02:37.698
+ Heading: 202.70, Velocity: 5.186
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.5000
+ Date: 21/03/2017 Time 17:02:37.798
+ Heading: 203.50, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2174, alt: 204.6000
+ Date: 21/03/2017 Time 17:02:37.898
+ Heading: 203.90, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2174, alt: 205.1000
+ Date: 21/03/2017 Time 17:02:37.998
+ Heading: 203.60, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2174, alt: 205.8000
+ Date: 21/03/2017 Time 17:02:38.098
+ Heading: 201.50, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2174, alt: 205.8000
+ Date: 21/03/2017 Time 17:02:38.198
+ Heading: 200.50, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2174, alt: 206.6000
+ Date: 21/03/2017 Time 17:02:38.298
+ Heading: 199.10, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2174, alt: 207.2000
+ Date: 21/03/2017 Time 17:02:38.398
+ Heading: 199.20, Velocity: 5.556
+Position Change event: lat: 48.7121, long: 2.2174, alt: 207.2000
+ Date: 21/03/2017 Time 17:02:38.498
+ Heading: 198.70, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.0000
+ Date: 21/03/2017 Time 17:02:38.598
+ Heading: 198.10, Velocity: 5.741
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.4000
+ Date: 21/03/2017 Time 17:02:38.698
+ Heading: 197.50, Velocity: 5.371
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.9000
+ Date: 21/03/2017 Time 17:02:38.798
+ Heading: 196.50, Velocity: 5.000
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.8000
+ Date: 21/03/2017 Time 17:02:38.898
+ Heading: 198.50, Velocity: 5.000
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.4000
+ Date: 21/03/2017 Time 17:02:38.998
+ Heading: 197.90, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.3000
+ Date: 21/03/2017 Time 17:02:39.098
+ Heading: 199.80, Velocity: 4.815
+Position Change event: lat: 48.7121, long: 2.2174, alt: 208.1000
+ Date: 21/03/2017 Time 17:02:39.198
+ Heading: 200.00, Velocity: 4.815
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.8000
+ Date: 21/03/2017 Time 17:02:39.298
+ Heading: 201.30, Velocity: 4.815
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.8000
+ Date: 21/03/2017 Time 17:02:39.398
+ Heading: 202.30, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.3000
+ Date: 21/03/2017 Time 17:02:39.498
+ Heading: 203.30, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.2000
+ Date: 21/03/2017 Time 17:02:39.598
+ Heading: 204.70, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.2000
+ Date: 21/03/2017 Time 17:02:39.698
+ Heading: 203.90, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.4000
+ Date: 21/03/2017 Time 17:02:39.798
+ Heading: 204.60, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 207.5000
+ Date: 21/03/2017 Time 17:02:39.898
+ Heading: 202.70, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 208.1000
+ Date: 21/03/2017 Time 17:02:39.998
+ Heading: 200.40, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 209.0000
+ Date: 21/03/2017 Time 17:02:40.098
+ Heading: 197.90, Velocity: 3.519
+Position Change event: lat: 48.7120, long: 2.2174, alt: 209.4000
+ Date: 21/03/2017 Time 17:02:40.198
+ Heading: 192.20, Velocity: 3.519
+Position Change event: lat: 48.7120, long: 2.2174, alt: 209.7000
+ Date: 21/03/2017 Time 17:02:40.298
+ Heading: 185.00, Velocity: 3.519
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.0000
+ Date: 21/03/2017 Time 17:02:40.398
+ Heading: 179.90, Velocity: 3.519
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.5000
+ Date: 21/03/2017 Time 17:02:40.498
+ Heading: 182.30, Velocity: 3.889
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:40.598
+ Heading: 180.90, Velocity: 4.260
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:40.698
+ Heading: 181.10, Velocity: 4.815
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:40.798
+ Heading: 184.00, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:40.898
+ Heading: 186.20, Velocity: 5.371
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.0000
+ Date: 21/03/2017 Time 17:02:40.998
+ Heading: 188.20, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.1000
+ Date: 21/03/2017 Time 17:02:41.098
+ Heading: 188.20, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.1000
+ Date: 21/03/2017 Time 17:02:41.198
+ Heading: 189.30, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:41.298
+ Heading: 190.40, Velocity: 5.741
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.1000
+ Date: 21/03/2017 Time 17:02:41.398
+ Heading: 190.00, Velocity: 5.741
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:41.498
+ Heading: 188.80, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:41.598
+ Heading: 187.90, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.0000
+ Date: 21/03/2017 Time 17:02:41.798
+ Heading: 189.20, Velocity: 5.741
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.1000
+ Date: 21/03/2017 Time 17:02:41.898
+ Heading: 187.90, Velocity: 5.741
+Position Change event: lat: 48.7120, long: 2.2174, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:41.998
+ Heading: 186.80, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.0000
+ Date: 21/03/2017 Time 17:02:42.098
+ Heading: 185.30, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:42.198
+ Heading: 185.80, Velocity: 5.371
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:42.298
+ Heading: 186.40, Velocity: 5.371
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.4000
+ Date: 21/03/2017 Time 17:02:42.398
+ Heading: 185.00, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.7000
+ Date: 21/03/2017 Time 17:02:42.498
+ Heading: 186.20, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.8000
+ Date: 21/03/2017 Time 17:02:42.598
+ Heading: 184.90, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.9000
+ Date: 21/03/2017 Time 17:02:42.698
+ Heading: 185.60, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 211.9000
+ Date: 21/03/2017 Time 17:02:42.798
+ Heading: 187.10, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.2000
+ Date: 21/03/2017 Time 17:02:42.898
+ Heading: 189.00, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.4000
+ Date: 21/03/2017 Time 17:02:42.998
+ Heading: 189.60, Velocity: 5.186
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.3000
+ Date: 21/03/2017 Time 17:02:43.098
+ Heading: 190.60, Velocity: 3.334
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.4000
+ Date: 21/03/2017 Time 17:02:43.198
+ Heading: 191.20, Velocity: 3.519
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.4000
+ Date: 21/03/2017 Time 17:02:43.298
+ Heading: 193.00, Velocity: 3.704
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.5000
+ Date: 21/03/2017 Time 17:02:43.398
+ Heading: 197.70, Velocity: 4.074
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.6000
+ Date: 21/03/2017 Time 17:02:43.498
+ Heading: 200.30, Velocity: 4.260
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.5000
+ Date: 21/03/2017 Time 17:02:43.598
+ Heading: 202.10, Velocity: 4.445
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.5000
+ Date: 21/03/2017 Time 17:02:43.698
+ Heading: 203.90, Velocity: 4.630
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.4000
+ Date: 21/03/2017 Time 17:02:43.798
+ Heading: 202.10, Velocity: 4.445
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.4000
+ Date: 21/03/2017 Time 17:02:43.898
+ Heading: 204.30, Velocity: 5.000
+Position Change event: lat: 48.7120, long: 2.2174, alt: 212.5000
+ Date: 21/03/2017 Time 17:02:43.998
+ Heading: 205.10, Velocity: 5.556
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.9000
+ Date: 21/03/2017 Time 17:02:44.098
+ Heading: 202.30, Velocity: 5.926
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.6000
+ Date: 21/03/2017 Time 17:02:44.198
+ Heading: 203.90, Velocity: 5.926
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.6000
+ Date: 21/03/2017 Time 17:02:44.298
+ Heading: 202.60, Velocity: 6.112
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.6000
+ Date: 21/03/2017 Time 17:02:44.398
+ Heading: 200.60, Velocity: 6.482
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.3000
+ Date: 21/03/2017 Time 17:02:44.498
+ Heading: 199.80, Velocity: 6.667
+Position Change event: lat: 48.7120, long: 2.2173, alt: 212.1000
+ Date: 21/03/2017 Time 17:02:44.598
+ Heading: 198.80, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2173, alt: 211.9000
+ Date: 21/03/2017 Time 17:02:44.698
+ Heading: 199.80, Velocity: 7.038
+Position Change event: lat: 48.7120, long: 2.2173, alt: 211.6000
+ Date: 21/03/2017 Time 17:02:44.798
+ Heading: 199.20, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2173, alt: 211.5000
+ Date: 21/03/2017 Time 17:02:44.898
+ Heading: 198.20, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2173, alt: 211.1000
+ Date: 21/03/2017 Time 17:02:44.998
+ Heading: 197.30, Velocity: 7.223
+Position Change event: lat: 48.7119, long: 2.2173, alt: 211.6000
+ Date: 21/03/2017 Time 17:02:45.098
+ Heading: 196.20, Velocity: 7.408
+Position Change event: lat: 48.7119, long: 2.2173, alt: 211.2000
+ Date: 21/03/2017 Time 17:02:45.298
+ Heading: 197.30, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2173, alt: 210.9000
+ Date: 21/03/2017 Time 17:02:45.398
+ Heading: 196.00, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2173, alt: 210.5000
+ Date: 21/03/2017 Time 17:02:45.498
+ Heading: 195.20, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2173, alt: 210.3000
+ Date: 21/03/2017 Time 17:02:45.598
+ Heading: 194.30, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2173, alt: 209.9000
+ Date: 21/03/2017 Time 17:02:45.698
+ Heading: 192.90, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2173, alt: 209.6000
+ Date: 21/03/2017 Time 17:02:45.798
+ Heading: 193.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2173, alt: 209.3000
+ Date: 21/03/2017 Time 17:02:45.898
+ Heading: 193.00, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2173, alt: 209.2000
+ Date: 21/03/2017 Time 17:02:45.998
+ Heading: 191.40, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 209.2000
+ Date: 21/03/2017 Time 17:02:46.098
+ Heading: 190.50, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 209.2000
+ Date: 21/03/2017 Time 17:02:46.198
+ Heading: 189.00, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 209.1000
+ Date: 21/03/2017 Time 17:02:46.298
+ Heading: 189.00, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.9000
+ Date: 21/03/2017 Time 17:02:46.398
+ Heading: 189.10, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.6000
+ Date: 21/03/2017 Time 17:02:46.498
+ Heading: 188.90, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.5000
+ Date: 21/03/2017 Time 17:02:46.598
+ Heading: 188.60, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.2000
+ Date: 21/03/2017 Time 17:02:46.698
+ Heading: 188.40, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.1000
+ Date: 21/03/2017 Time 17:02:46.798
+ Heading: 186.80, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 208.2000
+ Date: 21/03/2017 Time 17:02:46.898
+ Heading: 186.20, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2174, alt: 205.4000
+ Date: 21/03/2017 Time 17:02:46.998
+ Heading: 186.10, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 202.3000
+ Date: 21/03/2017 Time 17:02:47.098
+ Heading: 184.50, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 200.0000
+ Date: 21/03/2017 Time 17:02:47.198
+ Heading: 181.00, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2174, alt: 197.7000
+ Date: 21/03/2017 Time 17:02:47.298
+ Heading: 177.50, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2174, alt: 195.7000
+ Date: 21/03/2017 Time 17:02:47.398
+ Heading: 173.60, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 193.9000
+ Date: 21/03/2017 Time 17:02:47.498
+ Heading: 170.50, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 192.5000
+ Date: 21/03/2017 Time 17:02:47.598
+ Heading: 165.80, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 191.3000
+ Date: 21/03/2017 Time 17:02:47.698
+ Heading: 164.80, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 189.9000
+ Date: 21/03/2017 Time 17:02:47.798
+ Heading: 164.50, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.6000
+ Date: 21/03/2017 Time 17:02:47.898
+ Heading: 161.50, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.2000
+ Date: 21/03/2017 Time 17:02:47.998
+ Heading: 160.00, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.0000
+ Date: 21/03/2017 Time 17:02:48.098
+ Heading: 159.90, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.9000
+ Date: 21/03/2017 Time 17:02:48.198
+ Heading: 162.30, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.9000
+ Date: 21/03/2017 Time 17:02:48.298
+ Heading: 162.30, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.9000
+ Date: 21/03/2017 Time 17:02:48.398
+ Heading: 163.40, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.9000
+ Date: 21/03/2017 Time 17:02:48.498
+ Heading: 163.90, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.0000
+ Date: 21/03/2017 Time 17:02:48.598
+ Heading: 166.40, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.1000
+ Date: 21/03/2017 Time 17:02:48.698
+ Heading: 168.20, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.2000
+ Date: 21/03/2017 Time 17:02:48.798
+ Heading: 169.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.2000
+ Date: 21/03/2017 Time 17:02:48.898
+ Heading: 168.70, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.4000
+ Date: 21/03/2017 Time 17:02:48.998
+ Heading: 169.20, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.3000
+ Date: 21/03/2017 Time 17:02:49.098
+ Heading: 169.10, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2175, alt: 188.0000
+ Date: 21/03/2017 Time 17:02:49.198
+ Heading: 167.70, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.8000
+ Date: 21/03/2017 Time 17:02:49.298
+ Heading: 165.30, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.8000
+ Date: 21/03/2017 Time 17:02:49.398
+ Heading: 163.00, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.6000
+ Date: 21/03/2017 Time 17:02:49.498
+ Heading: 159.70, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.5000
+ Date: 21/03/2017 Time 17:02:49.598
+ Heading: 157.10, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.5000
+ Date: 21/03/2017 Time 17:02:49.698
+ Heading: 155.50, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.5000
+ Date: 21/03/2017 Time 17:02:49.798
+ Heading: 151.00, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2175, alt: 187.1000
+ Date: 21/03/2017 Time 17:02:49.898
+ Heading: 145.70, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2176, alt: 186.4000
+ Date: 21/03/2017 Time 17:02:49.998
+ Heading: 141.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 185.6000
+ Date: 21/03/2017 Time 17:02:50.098
+ Heading: 136.90, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 184.8000
+ Date: 21/03/2017 Time 17:02:50.198
+ Heading: 135.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 184.1000
+ Date: 21/03/2017 Time 17:02:50.298
+ Heading: 131.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 183.4000
+ Date: 21/03/2017 Time 17:02:50.398
+ Heading: 127.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 182.6000
+ Date: 21/03/2017 Time 17:02:50.498
+ Heading: 119.60, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2176, alt: 181.9000
+ Date: 21/03/2017 Time 17:02:50.598
+ Heading: 111.60, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2176, alt: 181.1000
+ Date: 21/03/2017 Time 17:02:50.698
+ Heading: 107.50, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2176, alt: 180.6000
+ Date: 21/03/2017 Time 17:02:50.798
+ Heading: 105.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2176, alt: 180.0000
+ Date: 21/03/2017 Time 17:02:50.898
+ Heading: 98.60, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.8000
+ Date: 21/03/2017 Time 17:02:50.998
+ Heading: 94.10, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.6000
+ Date: 21/03/2017 Time 17:02:51.098
+ Heading: 88.90, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.7000
+ Date: 21/03/2017 Time 17:02:51.198
+ Heading: 91.60, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.7000
+ Date: 21/03/2017 Time 17:02:51.298
+ Heading: 93.30, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.6000
+ Date: 21/03/2017 Time 17:02:51.398
+ Heading: 96.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.6000
+ Date: 21/03/2017 Time 17:02:51.498
+ Heading: 98.30, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.5000
+ Date: 21/03/2017 Time 17:02:51.598
+ Heading: 101.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2176, alt: 179.4000
+ Date: 21/03/2017 Time 17:02:51.698
+ Heading: 106.50, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 179.3000
+ Date: 21/03/2017 Time 17:02:51.798
+ Heading: 109.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 179.2000
+ Date: 21/03/2017 Time 17:02:51.898
+ Heading: 108.10, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2177, alt: 179.2000
+ Date: 21/03/2017 Time 17:02:51.998
+ Heading: 110.10, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2177, alt: 179.4000
+ Date: 21/03/2017 Time 17:02:52.098
+ Heading: 109.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 178.5000
+ Date: 21/03/2017 Time 17:02:52.198
+ Heading: 111.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 178.0000
+ Date: 21/03/2017 Time 17:02:52.298
+ Heading: 113.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 177.4000
+ Date: 21/03/2017 Time 17:02:52.398
+ Heading: 112.90, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 176.9000
+ Date: 21/03/2017 Time 17:02:52.498
+ Heading: 113.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 176.3000
+ Date: 21/03/2017 Time 17:02:52.598
+ Heading: 111.50, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 175.8000
+ Date: 21/03/2017 Time 17:02:52.698
+ Heading: 113.90, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 175.3000
+ Date: 21/03/2017 Time 17:02:52.798
+ Heading: 118.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2177, alt: 174.9000
+ Date: 21/03/2017 Time 17:02:52.898
+ Heading: 118.40, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 175.0000
+ Date: 21/03/2017 Time 17:02:52.998
+ Heading: 118.10, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 172.8000
+ Date: 21/03/2017 Time 17:02:53.098
+ Heading: 114.10, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2177, alt: 171.1000
+ Date: 21/03/2017 Time 17:02:53.198
+ Heading: 112.10, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 170.0000
+ Date: 21/03/2017 Time 17:02:53.298
+ Heading: 113.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2177, alt: 169.1000
+ Date: 21/03/2017 Time 17:02:53.398
+ Heading: 111.00, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 168.3000
+ Date: 21/03/2017 Time 17:02:53.498
+ Heading: 110.80, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 167.4000
+ Date: 21/03/2017 Time 17:02:53.598
+ Heading: 112.30, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 166.5000
+ Date: 21/03/2017 Time 17:02:53.698
+ Heading: 112.70, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 165.8000
+ Date: 21/03/2017 Time 17:02:53.798
+ Heading: 115.40, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 165.3000
+ Date: 21/03/2017 Time 17:02:53.898
+ Heading: 120.40, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2178, alt: 163.5000
+ Date: 21/03/2017 Time 17:02:53.998
+ Heading: 122.40, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2178, alt: 162.1000
+ Date: 21/03/2017 Time 17:02:54.098
+ Heading: 125.50, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2178, alt: 161.0000
+ Date: 21/03/2017 Time 17:02:54.198
+ Heading: 125.10, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2178, alt: 159.8000
+ Date: 21/03/2017 Time 17:02:54.298
+ Heading: 129.90, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 159.1000
+ Date: 21/03/2017 Time 17:02:54.398
+ Heading: 133.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 158.6000
+ Date: 21/03/2017 Time 17:02:54.498
+ Heading: 135.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 157.9000
+ Date: 21/03/2017 Time 17:02:54.598
+ Heading: 139.20, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 157.3000
+ Date: 21/03/2017 Time 17:02:54.698
+ Heading: 139.10, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 156.7000
+ Date: 21/03/2017 Time 17:02:54.798
+ Heading: 139.40, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 156.1000
+ Date: 21/03/2017 Time 17:02:54.898
+ Heading: 141.00, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 155.8000
+ Date: 21/03/2017 Time 17:02:54.998
+ Heading: 142.40, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2178, alt: 155.4000
+ Date: 21/03/2017 Time 17:02:55.098
+ Heading: 144.60, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2178, alt: 154.9000
+ Date: 21/03/2017 Time 17:02:55.198
+ Heading: 144.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 154.6000
+ Date: 21/03/2017 Time 17:02:55.298
+ Heading: 144.10, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 154.3000
+ Date: 21/03/2017 Time 17:02:55.398
+ Heading: 146.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 153.8000
+ Date: 21/03/2017 Time 17:02:55.498
+ Heading: 147.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 153.6000
+ Date: 21/03/2017 Time 17:02:55.598
+ Heading: 148.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 153.3000
+ Date: 21/03/2017 Time 17:02:55.698
+ Heading: 149.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2178, alt: 153.1000
+ Date: 21/03/2017 Time 17:02:55.798
+ Heading: 146.70, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.7000
+ Date: 21/03/2017 Time 17:02:55.898
+ Heading: 146.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.5000
+ Date: 21/03/2017 Time 17:02:55.998
+ Heading: 145.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.4000
+ Date: 21/03/2017 Time 17:02:56.098
+ Heading: 145.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.3000
+ Date: 21/03/2017 Time 17:02:56.198
+ Heading: 143.40, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.2000
+ Date: 21/03/2017 Time 17:02:56.298
+ Heading: 141.10, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.1000
+ Date: 21/03/2017 Time 17:02:56.398
+ Heading: 139.70, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.1000
+ Date: 21/03/2017 Time 17:02:56.498
+ Heading: 139.40, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.9000
+ Date: 21/03/2017 Time 17:02:56.598
+ Heading: 136.70, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.0000
+ Date: 21/03/2017 Time 17:02:56.698
+ Heading: 134.90, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.0000
+ Date: 21/03/2017 Time 17:02:56.798
+ Heading: 132.90, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.9000
+ Date: 21/03/2017 Time 17:02:56.898
+ Heading: 131.30, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.8000
+ Date: 21/03/2017 Time 17:02:56.998
+ Heading: 129.80, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.9000
+ Date: 21/03/2017 Time 17:02:57.098
+ Heading: 127.50, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.0000
+ Date: 21/03/2017 Time 17:02:57.198
+ Heading: 124.90, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 152.1000
+ Date: 21/03/2017 Time 17:02:57.298
+ Heading: 122.70, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.9000
+ Date: 21/03/2017 Time 17:02:57.398
+ Heading: 120.50, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.7000
+ Date: 21/03/2017 Time 17:02:57.498
+ Heading: 119.30, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.7000
+ Date: 21/03/2017 Time 17:02:57.598
+ Heading: 118.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.6000
+ Date: 21/03/2017 Time 17:02:57.698
+ Heading: 120.50, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.6000
+ Date: 21/03/2017 Time 17:02:57.798
+ Heading: 120.90, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.5000
+ Date: 21/03/2017 Time 17:02:57.898
+ Heading: 120.80, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.3000
+ Date: 21/03/2017 Time 17:02:57.998
+ Heading: 122.20, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.5000
+ Date: 21/03/2017 Time 17:02:58.098
+ Heading: 128.00, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.4000
+ Date: 21/03/2017 Time 17:02:58.198
+ Heading: 132.00, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.6000
+ Date: 21/03/2017 Time 17:02:58.298
+ Heading: 134.00, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.4000
+ Date: 21/03/2017 Time 17:02:58.398
+ Heading: 134.30, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.6000
+ Date: 21/03/2017 Time 17:02:58.498
+ Heading: 133.50, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.5000
+ Date: 21/03/2017 Time 17:02:58.698
+ Heading: 133.60, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.5000
+ Date: 21/03/2017 Time 17:02:58.898
+ Heading: 134.90, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.3000
+ Date: 21/03/2017 Time 17:02:58.998
+ Heading: 135.30, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.3000
+ Date: 21/03/2017 Time 17:02:59.098
+ Heading: 137.10, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.1000
+ Date: 21/03/2017 Time 17:02:59.198
+ Heading: 139.60, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.0000
+ Date: 21/03/2017 Time 17:02:59.298
+ Heading: 141.00, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.1000
+ Date: 21/03/2017 Time 17:02:59.398
+ Heading: 143.10, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 151.0000
+ Date: 21/03/2017 Time 17:02:59.498
+ Heading: 138.70, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.8000
+ Date: 21/03/2017 Time 17:02:59.598
+ Heading: 135.60, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.6000
+ Date: 21/03/2017 Time 17:02:59.698
+ Heading: 139.80, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.5000
+ Date: 21/03/2017 Time 17:02:59.798
+ Heading: 143.50, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.5000
+ Date: 21/03/2017 Time 17:02:59.898
+ Heading: 147.20, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:02:59.998
+ Heading: 148.20, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:03:00.098
+ Heading: 148.90, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:03:00.198
+ Heading: 149.10, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.3000
+ Date: 21/03/2017 Time 17:03:00.298
+ Heading: 151.40, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:03:00.398
+ Heading: 153.20, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:03:00.498
+ Heading: 154.10, Velocity: 7.223
+Position Change event: lat: 48.7119, long: 2.2179, alt: 150.4000
+ Date: 21/03/2017 Time 17:03:00.598
+ Heading: 154.80, Velocity: 7.223
+Position Change event: lat: 48.7119, long: 2.2180, alt: 150.3000
+ Date: 21/03/2017 Time 17:03:00.698
+ Heading: 154.60, Velocity: 7.593
+Position Change event: lat: 48.7119, long: 2.2180, alt: 150.2000
+ Date: 21/03/2017 Time 17:03:00.798
+ Heading: 152.90, Velocity: 7.778
+Position Change event: lat: 48.7119, long: 2.2180, alt: 150.3000
+ Date: 21/03/2017 Time 17:03:00.898
+ Heading: 154.00, Velocity: 7.778
+Position Change event: lat: 48.7119, long: 2.2180, alt: 150.1000
+ Date: 21/03/2017 Time 17:03:00.998
+ Heading: 154.70, Velocity: 7.778
+Position Change event: lat: 48.7119, long: 2.2180, alt: 150.1000
+ Date: 21/03/2017 Time 17:03:01.098
+ Heading: 154.20, Velocity: 7.964
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.9000
+ Date: 21/03/2017 Time 17:03:01.198
+ Heading: 154.00, Velocity: 8.149
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.8000
+ Date: 21/03/2017 Time 17:03:01.298
+ Heading: 153.90, Velocity: 8.334
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.7000
+ Date: 21/03/2017 Time 17:03:01.398
+ Heading: 153.30, Velocity: 8.519
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.8000
+ Date: 21/03/2017 Time 17:03:01.498
+ Heading: 151.00, Velocity: 8.519
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.8000
+ Date: 21/03/2017 Time 17:03:01.598
+ Heading: 149.80, Velocity: 8.149
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.4000
+ Date: 21/03/2017 Time 17:03:01.698
+ Heading: 146.50, Velocity: 7.964
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.5000
+ Date: 21/03/2017 Time 17:03:01.798
+ Heading: 143.10, Velocity: 7.778
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.6000
+ Date: 21/03/2017 Time 17:03:01.898
+ Heading: 138.10, Velocity: 7.593
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.7000
+ Date: 21/03/2017 Time 17:03:01.998
+ Heading: 130.10, Velocity: 7.408
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.6000
+ Date: 21/03/2017 Time 17:03:02.098
+ Heading: 125.90, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.4000
+ Date: 21/03/2017 Time 17:03:02.198
+ Heading: 121.90, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 149.3000
+ Date: 21/03/2017 Time 17:03:02.298
+ Heading: 119.80, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.9000
+ Date: 21/03/2017 Time 17:03:02.398
+ Heading: 121.90, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.8000
+ Date: 21/03/2017 Time 17:03:02.498
+ Heading: 125.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.7000
+ Date: 21/03/2017 Time 17:03:02.598
+ Heading: 128.40, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.8000
+ Date: 21/03/2017 Time 17:03:02.698
+ Heading: 129.20, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.6000
+ Date: 21/03/2017 Time 17:03:02.798
+ Heading: 127.20, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:02.898
+ Heading: 127.20, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2180, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:02.998
+ Heading: 127.80, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2180, alt: 147.9000
+ Date: 21/03/2017 Time 17:03:03.098
+ Heading: 128.50, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2180, alt: 147.8000
+ Date: 21/03/2017 Time 17:03:03.198
+ Heading: 128.40, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2180, alt: 147.5000
+ Date: 21/03/2017 Time 17:03:03.298
+ Heading: 128.60, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2180, alt: 147.2000
+ Date: 21/03/2017 Time 17:03:03.398
+ Heading: 129.30, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.9000
+ Date: 21/03/2017 Time 17:03:03.498
+ Heading: 128.90, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.8000
+ Date: 21/03/2017 Time 17:03:03.598
+ Heading: 128.90, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.5000
+ Date: 21/03/2017 Time 17:03:03.698
+ Heading: 129.10, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.5000
+ Date: 21/03/2017 Time 17:03:03.798
+ Heading: 130.30, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.3000
+ Date: 21/03/2017 Time 17:03:03.898
+ Heading: 131.10, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.6000
+ Date: 21/03/2017 Time 17:03:03.998
+ Heading: 127.90, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.8000
+ Date: 21/03/2017 Time 17:03:04.098
+ Heading: 124.50, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.8000
+ Date: 21/03/2017 Time 17:03:04.198
+ Heading: 119.60, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.5000
+ Date: 21/03/2017 Time 17:03:04.298
+ Heading: 119.50, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.4000
+ Date: 21/03/2017 Time 17:03:04.398
+ Heading: 121.70, Velocity: 5.741
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.5000
+ Date: 21/03/2017 Time 17:03:04.498
+ Heading: 124.70, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2180, alt: 146.6000
+ Date: 21/03/2017 Time 17:03:04.598
+ Heading: 129.30, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2181, alt: 146.5000
+ Date: 21/03/2017 Time 17:03:04.698
+ Heading: 129.50, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2181, alt: 146.9000
+ Date: 21/03/2017 Time 17:03:04.798
+ Heading: 129.60, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.0000
+ Date: 21/03/2017 Time 17:03:04.898
+ Heading: 130.10, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.1000
+ Date: 21/03/2017 Time 17:03:04.998
+ Heading: 130.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.2000
+ Date: 21/03/2017 Time 17:03:05.098
+ Heading: 130.10, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.2000
+ Date: 21/03/2017 Time 17:03:05.198
+ Heading: 130.20, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.4000
+ Date: 21/03/2017 Time 17:03:05.298
+ Heading: 131.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.3000
+ Date: 21/03/2017 Time 17:03:05.398
+ Heading: 132.20, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.5000
+ Date: 21/03/2017 Time 17:03:05.498
+ Heading: 133.70, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.6000
+ Date: 21/03/2017 Time 17:03:05.598
+ Heading: 137.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.9000
+ Date: 21/03/2017 Time 17:03:05.698
+ Heading: 139.20, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:05.798
+ Heading: 141.50, Velocity: 7.223
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:05.898
+ Heading: 145.10, Velocity: 7.593
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:05.998
+ Heading: 149.00, Velocity: 7.964
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:06.098
+ Heading: 151.20, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:06.198
+ Heading: 151.00, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:06.298
+ Heading: 148.60, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.4000
+ Date: 21/03/2017 Time 17:03:06.398
+ Heading: 144.80, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.4000
+ Date: 21/03/2017 Time 17:03:06.498
+ Heading: 140.30, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:06.598
+ Heading: 134.40, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:06.698
+ Heading: 127.20, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.6000
+ Date: 21/03/2017 Time 17:03:06.798
+ Heading: 119.60, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:06.898
+ Heading: 112.30, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.6000
+ Date: 21/03/2017 Time 17:03:06.998
+ Heading: 107.10, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:07.098
+ Heading: 100.90, Velocity: 4.630
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:07.198
+ Heading: 93.80, Velocity: 4.815
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.1000
+ Date: 21/03/2017 Time 17:03:07.298
+ Heading: 88.60, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.1000
+ Date: 21/03/2017 Time 17:03:07.398
+ Heading: 86.00, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.0000
+ Date: 21/03/2017 Time 17:03:07.498
+ Heading: 88.70, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.1000
+ Date: 21/03/2017 Time 17:03:07.598
+ Heading: 91.30, Velocity: 5.000
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:07.698
+ Heading: 91.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:07.798
+ Heading: 96.10, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.0000
+ Date: 21/03/2017 Time 17:03:07.898
+ Heading: 99.80, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 148.1000
+ Date: 21/03/2017 Time 17:03:07.998
+ Heading: 104.70, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2181, alt: 147.9000
+ Date: 21/03/2017 Time 17:03:08.098
+ Heading: 108.40, Velocity: 5.186
+Position Change event: lat: 48.7119, long: 2.2182, alt: 147.9000
+ Date: 21/03/2017 Time 17:03:08.198
+ Heading: 110.80, Velocity: 5.371
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.0000
+ Date: 21/03/2017 Time 17:03:08.298
+ Heading: 115.40, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:08.398
+ Heading: 120.30, Velocity: 5.556
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:08.498
+ Heading: 121.70, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.3000
+ Date: 21/03/2017 Time 17:03:08.598
+ Heading: 125.30, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:08.698
+ Heading: 129.20, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:08.798
+ Heading: 132.20, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.4000
+ Date: 21/03/2017 Time 17:03:08.898
+ Heading: 134.00, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:08.998
+ Heading: 134.90, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.7000
+ Date: 21/03/2017 Time 17:03:09.098
+ Heading: 135.80, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:09.198
+ Heading: 136.10, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.6000
+ Date: 21/03/2017 Time 17:03:09.298
+ Heading: 135.10, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.9000
+ Date: 21/03/2017 Time 17:03:09.398
+ Heading: 134.20, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:09.498
+ Heading: 132.30, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.1000
+ Date: 21/03/2017 Time 17:03:09.598
+ Heading: 131.50, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.9000
+ Date: 21/03/2017 Time 17:03:09.698
+ Heading: 130.50, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:09.798
+ Heading: 129.90, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.9000
+ Date: 21/03/2017 Time 17:03:09.898
+ Heading: 129.30, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:09.998
+ Heading: 128.60, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.3000
+ Date: 21/03/2017 Time 17:03:10.098
+ Heading: 127.40, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.4000
+ Date: 21/03/2017 Time 17:03:10.198
+ Heading: 125.80, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.3000
+ Date: 21/03/2017 Time 17:03:10.298
+ Heading: 126.30, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.2000
+ Date: 21/03/2017 Time 17:03:10.498
+ Heading: 132.40, Velocity: 5.926
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:10.598
+ Heading: 138.60, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:10.698
+ Heading: 143.90, Velocity: 6.112
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:10.798
+ Heading: 149.30, Velocity: 6.297
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.9000
+ Date: 21/03/2017 Time 17:03:10.898
+ Heading: 153.10, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:10.998
+ Heading: 157.50, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2182, alt: 149.0000
+ Date: 21/03/2017 Time 17:03:11.098
+ Heading: 157.00, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.8000
+ Date: 21/03/2017 Time 17:03:11.198
+ Heading: 157.00, Velocity: 7.038
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.7000
+ Date: 21/03/2017 Time 17:03:11.298
+ Heading: 157.30, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.7000
+ Date: 21/03/2017 Time 17:03:11.398
+ Heading: 157.70, Velocity: 6.852
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.7000
+ Date: 21/03/2017 Time 17:03:11.498
+ Heading: 155.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.4000
+ Date: 21/03/2017 Time 17:03:11.598
+ Heading: 156.30, Velocity: 6.482
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.2000
+ Date: 21/03/2017 Time 17:03:11.698
+ Heading: 160.50, Velocity: 6.667
+Position Change event: lat: 48.7119, long: 2.2182, alt: 148.5000
+ Date: 21/03/2017 Time 17:03:11.798
+ Heading: 160.60, Velocity: 6.482
+Position Change event: lat: 

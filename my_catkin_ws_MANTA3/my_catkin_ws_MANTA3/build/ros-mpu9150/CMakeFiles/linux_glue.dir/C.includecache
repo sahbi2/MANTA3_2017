@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/eMPL/inv_mpu.h
+
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/glue/linux_glue.c
+time.h
+-
+sys/time.h
+-
+errno.h
+-
+string.h
+-
+unistd.h
+-
+stdint.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+fcntl.h
+-
+linux/i2c-dev.h
+-
+linux_glue.h
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/glue/linux_glue.h
+
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/glue/linux_glue.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+inv_mpu.h
+/home/pi/my_catkin_ws/src/ros-mpu9150/src/linux-mpu9150/glue/inv_mpu.h
+

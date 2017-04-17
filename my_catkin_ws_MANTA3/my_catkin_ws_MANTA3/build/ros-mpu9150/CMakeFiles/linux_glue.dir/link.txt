@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,liblinux_glue.so -o /home/pi/my_catkin_ws/devel/lib/liblinux_glue.so CMakeFiles/linux_glue.dir/src/linux-mpu9150/glue/linux_glue.c.o 

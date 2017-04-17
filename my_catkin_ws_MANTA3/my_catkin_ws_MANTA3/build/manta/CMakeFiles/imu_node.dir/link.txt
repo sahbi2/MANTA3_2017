@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/imu_node.dir/scripts/imu_node.cpp.o  -o /home/pi/my_catkin_ws/devel/lib/manta/imu_node -rdynamic -L/usr/lib/libphidget21 

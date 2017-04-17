@@ -1,0 +1,8 @@
+prefix=/home/pi/my_catkin_ws/devel
+
+Name: ros_mpu9150
+Description: Description of ros_mpu9150
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/my_catkin_ws/devel/lib 
+Requires: 
